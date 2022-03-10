@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>SulekForHabboAir</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <Authors>Lilith</Authors>
+    <Copyright>Lilith</Copyright>
+    <ApplicationIcon>FortuneIcon.ico</ApplicationIcon>
+    <Company>Lilith</Company>
+    <Description></Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="UnfamiliarLegacy.Flazzy" Version="1.2.2" />
+  </ItemGroup>
+
+</Project>

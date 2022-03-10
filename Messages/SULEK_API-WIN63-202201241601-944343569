@@ -1,0 +1,6709 @@
+{
+  "revision": "WIN63-202201241601-944343569",
+  "lastCheckedAt": "2022-03-10T08:23:01.240570+00:00",
+  "messages": {
+    "outgoing": [
+      {
+        "id": "0",
+        "name": "JoinHabboGroupMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-18",
+        "IsConfident": true
+      },
+      {
+        "id": "1007",
+        "name": "AcceptFriendMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-T1e",
+        "IsConfident": true
+      },
+      {
+        "id": "1008",
+        "name": "GetUserChatlogMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-Z1S",
+        "IsConfident": true
+      },
+      {
+        "id": "1023",
+        "name": "CancelPetBreedingComposer",
+        "asNamespace": "_-u15",
+        "asClass": "_-Zd",
+        "IsConfident": true
+      },
+      {
+        "id": "1026",
+        "name": "CallForHelpFromIMMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-Y1O",
+        "IsConfident": true
+      },
+      {
+        "id": "1041",
+        "name": "GetFaqCategoryMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-3N",
+        "IsConfident": true
+      },
+      {
+        "id": "1071",
+        "name": "OpenMessageComposer",
+        "asNamespace": "_-t14",
+        "asClass": "_-b1Q",
+        "IsConfident": true
+      },
+      {
+        "id": "1073",
+        "name": "GetProductOfferComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-w1",
+        "IsConfident": true
+      },
+      {
+        "id": "1096",
+        "name": "LetUserInMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-Ef",
+        "IsConfident": true
+      },
+      {
+        "id": "1109",
+        "name": "ConfirmAcceptTradingComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-Z1o",
+        "IsConfident": true
+      },
+      {
+        "id": "1113",
+        "name": "CraftSecretComposer",
+        "asNamespace": "_-FJ",
+        "asClass": "_-sH",
+        "IsConfident": true
+      },
+      {
+        "id": "115",
+        "name": "GuideSessionOnDutyUpdateMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-514",
+        "IsConfident": true
+      },
+      {
+        "id": "1156",
+        "name": "GetMOTDMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-Z1U",
+        "IsConfident": true
+      },
+      {
+        "id": "1180",
+        "name": "GetPetInventoryComposer",
+        "asNamespace": "_-u15",
+        "asClass": "_-x12",
+        "IsConfident": true
+      },
+      {
+        "id": "1194",
+        "name": "BuildersClubPlaceWallItemMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-W19",
+        "IsConfident": true
+      },
+      {
+        "id": "1218",
+        "name": "GuideSessionResolvedMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-X1S",
+        "IsConfident": true
+      },
+      {
+        "id": "122",
+        "name": "PurchaseFromCatalogComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-Z13",
+        "IsConfident": true
+      },
+      {
+        "id": "1237",
+        "name": "GetHotLooksMessageComposer",
+        "asNamespace": "_-ZA",
+        "asClass": "_-32c",
+        "IsConfident": true
+      },
+      {
+        "id": "1242",
+        "name": "ResetResolutionAchievementMessageComposer",
+        "asNamespace": "_-IU",
+        "asClass": "_-u1p",
+        "IsConfident": true
+      },
+      {
+        "id": "1244",
+        "name": "GetSelectedNftWardrobeOutfitMessageComposer",
+        "asNamespace": "_-GV",
+        "asClass": "_-MA",
+        "IsConfident": true
+      },
+      {
+        "id": "1260",
+        "name": "SelectClubGiftComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-VF",
+        "IsConfident": true
+      },
+      {
+        "id": "1262",
+        "name": "MountPetMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-F13",
+        "IsConfident": true
+      },
+      {
+        "id": "1279",
+        "name": "GetGuildMembershipsMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-F1h",
+        "IsConfident": true
+      },
+      {
+        "id": "129",
+        "name": "NavigatorRemoveCollapsedCategoryMessageComposer",
+        "asNamespace": "_-kT",
+        "asClass": "_-vA",
+        "IsConfident": true
+      },
+      {
+        "id": "1293",
+        "name": "GetEmailStatusComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-T1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "130",
+        "name": "PassCarryItemToPetMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-Em",
+        "IsConfident": true
+      },
+      {
+        "id": "1301",
+        "name": "GetTalentTrackMessageComposer",
+        "asNamespace": "_-f1P",
+        "asClass": "_-a1w",
+        "IsConfident": true
+      },
+      {
+        "id": "1314",
+        "name": "RequestFurniInventoryComposer",
+        "asNamespace": "_-t8",
+        "asClass": "_-j1U",
+        "IsConfident": true
+      },
+      {
+        "id": "1318",
+        "name": "UpdateForumReadMarkerMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-Nu",
+        "IsConfident": true
+      },
+      {
+        "id": "1319",
+        "name": "CallForHelpFromForumThreadMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-t1c",
+        "IsConfident": true
+      },
+      {
+        "id": "1341",
+        "name": "GetGuideReportingStatusMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-51p",
+        "IsConfident": true
+      },
+      {
+        "id": "1347",
+        "name": "PurchaseTargetedOfferComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-x1K",
+        "IsConfident": true
+      },
+      {
+        "id": "1362",
+        "name": "Game2LeaveGameMessageComposer",
+        "asNamespace": "_-81Y",
+        "asClass": "_-C11",
+        "IsConfident": true
+      },
+      {
+        "id": "1393",
+        "name": "PhotoCompetitionMessageComposer",
+        "asNamespace": "com.sulake.habbo.communication.messages.outgoing.camera",
+        "asClass": "_-O1M",
+        "IsConfident": true
+      },
+      {
+        "id": "1410",
+        "name": "SetRelationshipStatusMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-j1o",
+        "IsConfident": true
+      },
+      {
+        "id": "1417",
+        "name": "GetRelationshipStatusInfoMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-b1s",
+        "IsConfident": true
+      },
+      {
+        "id": "1431",
+        "name": "RemoveBotFromFlatMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-v1d",
+        "IsConfident": true
+      },
+      {
+        "id": "1435",
+        "name": "OpenFlatConnectionMessageComposer",
+        "asNamespace": "_-IR",
+        "asClass": "_-02x",
+        "IsConfident": true
+      },
+      {
+        "id": "1450",
+        "name": "MyFriendsRoomsSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-9v",
+        "IsConfident": true
+      },
+      {
+        "id": "1465",
+        "name": "Game2ExitGameMessageComposer",
+        "asNamespace": "_-PD",
+        "asClass": "Game2ExitGameMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "1472",
+        "name": "FindNewFriendsMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-K1A",
+        "IsConfident": true
+      },
+      {
+        "id": "1475",
+        "name": "CallForHelpMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-713",
+        "IsConfident": true
+      },
+      {
+        "id": "1506",
+        "name": "RemovePetFromFlatMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-31e",
+        "IsConfident": true
+      },
+      {
+        "id": "152",
+        "name": "PlacePostItMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-4y",
+        "IsConfident": true
+      },
+      {
+        "id": "1536",
+        "name": "PetSelectedMessageComposer",
+        "asNamespace": "_-m1i",
+        "asClass": "_-ix",
+        "IsConfident": true
+      },
+      {
+        "id": "1543",
+        "name": "GetGuildEditInfoMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-N1T",
+        "IsConfident": true
+      },
+      {
+        "id": "1566",
+        "name": "ResetUnseenItemIdsComposer",
+        "asNamespace": "_-u19",
+        "asClass": "_-H1C",
+        "IsConfident": true
+      },
+      {
+        "id": "1581",
+        "name": "GetRoomSettingsMessageComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-f1e",
+        "IsConfident": true
+      },
+      {
+        "id": "1586",
+        "name": "RemoveOwnRoomRightsRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-NI",
+        "IsConfident": true
+      },
+      {
+        "id": "1596",
+        "name": "OpenPetPackageMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-O14",
+        "IsConfident": true
+      },
+      {
+        "id": "1601",
+        "name": "UnacceptTradingComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-ba",
+        "IsConfident": true
+      },
+      {
+        "id": "1627",
+        "name": "RentableSpaceCancelRentMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-01Z",
+        "IsConfident": true
+      },
+      {
+        "id": "1629",
+        "name": "CommunityGoalVoteMessageComposer",
+        "asNamespace": "_-Z1T",
+        "asClass": "_-yO",
+        "IsConfident": true
+      },
+      {
+        "id": "1635",
+        "name": "AcceptTradingComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-t1G",
+        "IsConfident": true
+      },
+      {
+        "id": "164",
+        "name": "ShopTargetedOfferViewedComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-617",
+        "IsConfident": true
+      },
+      {
+        "id": "1646",
+        "name": "SetNewNavigatorWindowPreferencesMessageComposer",
+        "asNamespace": "_-71W",
+        "asClass": "_-VN",
+        "IsConfident": true
+      },
+      {
+        "id": "1648",
+        "name": "AddItemToTradeComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-YS",
+        "IsConfident": true
+      },
+      {
+        "id": "1655",
+        "name": "MakeOfferMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-81M",
+        "IsConfident": true
+      },
+      {
+        "id": "1661",
+        "name": "DanceMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-12p",
+        "IsConfident": true
+      },
+      {
+        "id": "1663",
+        "name": "PresentOpenMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-1G",
+        "IsConfident": true
+      },
+      {
+        "id": "1669",
+        "name": "GetWeeklyGameRewardWinnersComposer",
+        "asNamespace": "_-H16",
+        "asClass": "GetWeeklyGameRewardWinnersComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "1676",
+        "name": "IncomeRewardStatusMessageComposer",
+        "asNamespace": "_-mx",
+        "asClass": "_-n1f",
+        "IsConfident": true
+      },
+      {
+        "id": "168",
+        "name": "SetPhoneNumberVerificationStatusMessageComposer",
+        "asNamespace": "_-T7",
+        "asClass": "_-dd",
+        "IsConfident": true
+      },
+      {
+        "id": "170",
+        "name": "GetExtendedProfileMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-L7",
+        "IsConfident": true
+      },
+      {
+        "id": "1700",
+        "name": "CloseIssuesMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-Vf",
+        "IsConfident": true
+      },
+      {
+        "id": "1705",
+        "name": "DisconnectMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-Q1w",
+        "IsConfident": true
+      },
+      {
+        "id": "1708",
+        "name": "MoveAvatarMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-n1Z",
+        "IsConfident": true
+      },
+      {
+        "id": "1723",
+        "name": "ForwardToARandomPromotedRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-G5",
+        "IsConfident": true
+      },
+      {
+        "id": "1728",
+        "name": "GetAchievementsComposer",
+        "asNamespace": "_-Y1h",
+        "asClass": "_-wM",
+        "IsConfident": true
+      },
+      {
+        "id": "1730",
+        "name": "GetCraftableProductsComposer",
+        "asNamespace": "_-FJ",
+        "asClass": "_-T1R",
+        "IsConfident": true
+      },
+      {
+        "id": "1741",
+        "name": "UpdateConditionMessageComposer",
+        "asNamespace": "_-t14",
+        "asClass": "_-02P",
+        "IsConfident": true
+      },
+      {
+        "id": "1750",
+        "name": "WithdrawCreditVaultMessageComposer",
+        "asNamespace": "_-mx",
+        "asClass": "_-Jb",
+        "IsConfident": true
+      },
+      {
+        "id": "1752",
+        "name": "ForwardToACompetitionRoomMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-4I",
+        "IsConfident": true
+      },
+      {
+        "id": "1769",
+        "name": "GetPopularRoomTagsMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-51M",
+        "IsConfident": true
+      },
+      {
+        "id": "1791",
+        "name": "RejectMembershipRequestMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-3z",
+        "IsConfident": true
+      },
+      {
+        "id": "1794",
+        "name": "GetOfficialSongIdMessageComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-tB",
+        "IsConfident": true
+      },
+      {
+        "id": "1818",
+        "name": "CustomizeAvatarWithFurniMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-v1u",
+        "IsConfident": true
+      },
+      {
+        "id": "1825",
+        "name": "GetUserSongDisksMessageComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-rY",
+        "IsConfident": true
+      },
+      {
+        "id": "1834",
+        "name": "GetClubOffersMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-yA",
+        "IsConfident": true
+      },
+      {
+        "id": "1849",
+        "name": "GetResolutionAchievementsMessageComposer",
+        "asNamespace": "_-IU",
+        "asClass": "_-D16",
+        "IsConfident": true
+      },
+      {
+        "id": "187",
+        "name": "GetSellablePetPalettesComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-ha",
+        "IsConfident": true
+      },
+      {
+        "id": "1875",
+        "name": "ResetUnseenItemsComposer",
+        "asNamespace": "_-u19",
+        "asClass": "_-Z16",
+        "IsConfident": true
+      },
+      {
+        "id": "1878",
+        "name": "UpdateRoomFilterMessageComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-f1Z",
+        "IsConfident": true
+      },
+      {
+        "id": "1879",
+        "name": "SetIgnoreRoomInvitesMessageComposer",
+        "asNamespace": "_-71W",
+        "asClass": "_-1R",
+        "IsConfident": true
+      },
+      {
+        "id": "1880",
+        "name": "GetCreditsInfoComposer",
+        "asNamespace": "_-z1H",
+        "asClass": "_-V1j",
+        "IsConfident": true
+      },
+      {
+        "id": "1888",
+        "name": "VisitUserMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-41a",
+        "IsConfident": true
+      },
+      {
+        "id": "1900",
+        "name": "NavigatorAddCollapsedCategoryMessageComposer",
+        "asNamespace": "_-kT",
+        "asClass": "_-W1T",
+        "IsConfident": true
+      },
+      {
+        "id": "1905",
+        "name": "SetMannequinNameComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-61Q",
+        "IsConfident": true
+      },
+      {
+        "id": "1922",
+        "name": "GetSnowWarGameTokensOfferComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "GetSnowWarGameTokensOfferComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "1924",
+        "name": "AvatarEffectSelectedComposer",
+        "asNamespace": "_-d1R",
+        "asClass": "_-6y",
+        "IsConfident": true
+      },
+      {
+        "id": "1925",
+        "name": "RemoveSaddleFromPetMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-A8",
+        "IsConfident": true
+      },
+      {
+        "id": "1927",
+        "name": "GetFriendsWeeklyCompetitiveLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "GetFriendsWeeklyCompetitiveLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "1940",
+        "name": "Game2GetWeeklyLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "Game2GetWeeklyLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "1959",
+        "name": "Game2QuickJoinGameMessageComposer",
+        "asNamespace": "_-81Y",
+        "asClass": "_-Mp",
+        "IsConfident": true
+      },
+      {
+        "id": "1971",
+        "name": "ResetPhoneNumberStateMessageComposer",
+        "asNamespace": "_-T7",
+        "asClass": "_-Q1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "1974",
+        "name": "UpdateGuildIdentityMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-WP",
+        "IsConfident": true
+      },
+      {
+        "id": "198",
+        "name": "Game2GameChatMessageComposer",
+        "asNamespace": "_-PD",
+        "asClass": "Game2GameChatMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "1980",
+        "name": "RentableSpaceStatusMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-hQ",
+        "IsConfident": true
+      },
+      {
+        "id": "1989",
+        "name": "SetRoomCameraPreferencesMessageComposer",
+        "asNamespace": "_-71W",
+        "asClass": "_-QT",
+        "IsConfident": true
+      },
+      {
+        "id": "1994",
+        "name": "IncomeRewardClaimMessageComposer",
+        "asNamespace": "_-mx",
+        "asClass": "_-6Z",
+        "IsConfident": true
+      },
+      {
+        "id": "2011",
+        "name": "CancelMarketplaceOfferMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-41x",
+        "IsConfident": true
+      },
+      {
+        "id": "2029",
+        "name": "GetExtendedProfileByNameMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-IY",
+        "IsConfident": true
+      },
+      {
+        "id": "2038",
+        "name": "GetMarketplaceOffersMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-81V",
+        "IsConfident": true
+      },
+      {
+        "id": "2052",
+        "name": "ModerateMessageMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-9V",
+        "IsConfident": true
+      },
+      {
+        "id": "2061",
+        "name": "OpenCampaignCalendarDoorAsStaffComposer",
+        "asNamespace": "_-x1N",
+        "asClass": "_-V3",
+        "IsConfident": true
+      },
+      {
+        "id": "207",
+        "name": "GetCfhChatlogMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-MY",
+        "IsConfident": true
+      },
+      {
+        "id": "2072",
+        "name": "ShoutMessageComposer",
+        "asNamespace": "_-21B",
+        "asClass": "_-d1v",
+        "IsConfident": true
+      },
+      {
+        "id": "208",
+        "name": "GuideSessionGuideDecidesMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-fa",
+        "IsConfident": true
+      },
+      {
+        "id": "2098",
+        "name": "PurchaseFromCatalogAsGiftComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-m2",
+        "IsConfident": true
+      },
+      {
+        "id": "2109",
+        "name": "ChangeUserNameMessageComposer",
+        "asNamespace": "_-s3",
+        "asClass": "_-Yd",
+        "IsConfident": true
+      },
+      {
+        "id": "2113",
+        "name": "UseFurnitureMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-z11",
+        "IsConfident": true
+      },
+      {
+        "id": "2123",
+        "name": "RoomsWhereMyFriendsAreSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-t1E",
+        "IsConfident": true
+      },
+      {
+        "id": "2132",
+        "name": "GetCatalogPageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-y7",
+        "IsConfident": true
+      },
+      {
+        "id": "2133",
+        "name": "SaveWardrobeOutfitMessageComposer",
+        "asNamespace": "_-s3",
+        "asClass": "_-11v",
+        "IsConfident": true
+      },
+      {
+        "id": "2145",
+        "name": "CommandBotComposer",
+        "asNamespace": "_-T1V",
+        "asClass": "_-E1I",
+        "IsConfident": true
+      },
+      {
+        "id": "2152",
+        "name": "CallForHelpFromSelfieMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-j1K",
+        "IsConfident": true
+      },
+      {
+        "id": "2162",
+        "name": "UpdateGuildSettingsMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-3J",
+        "IsConfident": true
+      },
+      {
+        "id": "2187",
+        "name": "VoteForRoomMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-AO",
+        "IsConfident": true
+      },
+      {
+        "id": "2192",
+        "name": "SetYoutubeDisplayPlaylistMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-j1P",
+        "IsConfident": true
+      },
+      {
+        "id": "2195",
+        "name": "GetUserGameAchievementsMessageComposer",
+        "asNamespace": "_-IU",
+        "asClass": "GetUserGameAchievementsMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "2196",
+        "name": "GetSecondsUntilMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-KM",
+        "IsConfident": true
+      },
+      {
+        "id": "22",
+        "name": "PeerUsersClassificationMessageComposer",
+        "asNamespace": "_-8c",
+        "asClass": "_-32t",
+        "IsConfident": true
+      },
+      {
+        "id": "2210",
+        "name": "RoomAdSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-x1n",
+        "IsConfident": true
+      },
+      {
+        "id": "2224",
+        "name": "OpenTradingComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-v9",
+        "IsConfident": true
+      },
+      {
+        "id": "2243",
+        "name": "LatencyPingRequestMessageComposer",
+        "asNamespace": "_-qv",
+        "asClass": "_-U1V",
+        "IsConfident": true
+      },
+      {
+        "id": "2255",
+        "name": "UpdateTriggerMessageComposer",
+        "asNamespace": "_-t14",
+        "asClass": "_-S1m",
+        "IsConfident": true
+      },
+      {
+        "id": "226",
+        "name": "ReleaseIssuesMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-32O",
+        "IsConfident": true
+      },
+      {
+        "id": "2262",
+        "name": "PlacePetMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-lr",
+        "IsConfident": true
+      },
+      {
+        "id": "2266",
+        "name": "UnmuteUserMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-Vq",
+        "IsConfident": true
+      },
+      {
+        "id": "2268",
+        "name": "ChangeQueueMessageComposer",
+        "asNamespace": "_-IR",
+        "asClass": "_-I1B",
+        "IsConfident": true
+      },
+      {
+        "id": "2270",
+        "name": "PurchaseSnowWarGameTokensOfferComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "PurchaseSnowWarGameTokensOfferComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "2271",
+        "name": "GetSoundMachinePlayListMessageComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-Z1b",
+        "IsConfident": true
+      },
+      {
+        "id": "2282",
+        "name": "UpdateGuildColorsMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-91a",
+        "IsConfident": true
+      },
+      {
+        "id": "2306",
+        "name": "WhisperMessageComposer",
+        "asNamespace": "_-21B",
+        "asClass": "_-7g",
+        "IsConfident": true
+      },
+      {
+        "id": "2325",
+        "name": "GetInterstitialMessageComposer",
+        "asNamespace": "_-e1A",
+        "asClass": "_-91M",
+        "IsConfident": true
+      },
+      {
+        "id": "233",
+        "name": "UpdateFloorPropertiesMessageComposer",
+        "asNamespace": "_-J4",
+        "asClass": "_-7c",
+        "IsConfident": true
+      },
+      {
+        "id": "2332",
+        "name": "GetUnreadForumsCountMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-A10",
+        "IsConfident": true
+      },
+      {
+        "id": "2333",
+        "name": "GetHabboClubExtendOfferMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-YX",
+        "IsConfident": true
+      },
+      {
+        "id": "2336",
+        "name": "DeleteFavouriteRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-K4",
+        "IsConfident": true
+      },
+      {
+        "id": "2341",
+        "name": "ApplySnapshotMessageComposer",
+        "asNamespace": "_-t14",
+        "asClass": "_-IJ",
+        "IsConfident": true
+      },
+      {
+        "id": "2344",
+        "name": "RequestFriendMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-F1G",
+        "IsConfident": true
+      },
+      {
+        "id": "2357",
+        "name": "CancelEventMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-k1n",
+        "IsConfident": true
+      },
+      {
+        "id": "2359",
+        "name": "PerformanceLogMessageComposer",
+        "asNamespace": "_-qv",
+        "asClass": "_-W17",
+        "IsConfident": true
+      },
+      {
+        "id": "2365",
+        "name": "GetCraftingRecipesAvailableComposer",
+        "asNamespace": "_-FJ",
+        "asClass": "_-KN",
+        "IsConfident": true
+      },
+      {
+        "id": "2366",
+        "name": "CloseTradingComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-g9",
+        "IsConfident": true
+      },
+      {
+        "id": "2371",
+        "name": "ChatReviewSessionCreateMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-a1K",
+        "IsConfident": true
+      },
+      {
+        "id": "2373",
+        "name": "ModAlertMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-J1H",
+        "IsConfident": true
+      },
+      {
+        "id": "2381",
+        "name": "AmbassadorAlertMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-On",
+        "IsConfident": true
+      },
+      {
+        "id": "2397",
+        "name": "LagWarningReportMessageComposer",
+        "asNamespace": "_-qv",
+        "asClass": "_-SF",
+        "IsConfident": true
+      },
+      {
+        "id": "24",
+        "name": "GetCommunityGoalHallOfFameMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-8h",
+        "IsConfident": true
+      },
+      {
+        "id": "2410",
+        "name": "GetFaqCategoriesMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-h1E",
+        "IsConfident": true
+      },
+      {
+        "id": "2411",
+        "name": "UpdateRoomThumbnailMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-7U",
+        "IsConfident": true
+      },
+      {
+        "id": "2435",
+        "name": "GuideSessionCreateMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-P0",
+        "IsConfident": true
+      },
+      {
+        "id": "2436",
+        "name": "ChangeEmailComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-E1J",
+        "IsConfident": true
+      },
+      {
+        "id": "2438",
+        "name": "PongMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-fT",
+        "IsConfident": true
+      },
+      {
+        "id": "2440",
+        "name": "Game2PlayAgainMessageComposer",
+        "asNamespace": "_-PD",
+        "asClass": "Game2PlayAgainMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "2445",
+        "name": "GuildBaseSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-81J",
+        "IsConfident": true
+      },
+      {
+        "id": "2449",
+        "name": "EditEventMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-C6",
+        "IsConfident": true
+      },
+      {
+        "id": "2452",
+        "name": "PickIssuesMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-V16",
+        "IsConfident": true
+      },
+      {
+        "id": "2455",
+        "name": "MuteUserMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-v18",
+        "IsConfident": true
+      },
+      {
+        "id": "2458",
+        "name": "GuideSessionInviteRequesterMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-p10",
+        "IsConfident": true
+      },
+      {
+        "id": "2475",
+        "name": "PublishPhotoMessageComposer",
+        "asNamespace": "com.sulake.habbo.communication.messages.outgoing.camera",
+        "asClass": "_-61e",
+        "IsConfident": true
+      },
+      {
+        "id": "2477",
+        "name": "PurchaseRoomAdMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-eV",
+        "IsConfident": true
+      },
+      {
+        "id": "2481",
+        "name": "ExtendRentOrBuyoutFurniMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-Iu",
+        "IsConfident": true
+      },
+      {
+        "id": "2482",
+        "name": "ScrGetUserInfoMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-sF",
+        "IsConfident": true
+      },
+      {
+        "id": "2485",
+        "name": "ForwardToASubmittableRoomMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-32y",
+        "IsConfident": true
+      },
+      {
+        "id": "251",
+        "name": "ApproveNameMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-r16",
+        "IsConfident": true
+      },
+      {
+        "id": "2527",
+        "name": "Game2SetUserMoveTargetMessageComposer",
+        "asNamespace": "_-EH",
+        "asClass": "Game2SetUserMoveTargetMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "2539",
+        "name": "GetDirectClubBuyAvailableComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-W1b",
+        "IsConfident": true
+      },
+      {
+        "id": "2541",
+        "name": "RespectUserMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-qz",
+        "IsConfident": true
+      },
+      {
+        "id": "2555",
+        "name": "GetBotCommandConfigurationDataComposer",
+        "asNamespace": "_-T1V",
+        "asClass": "_-5i",
+        "IsConfident": true
+      },
+      {
+        "id": "2558",
+        "name": "GetItemDataMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-1e",
+        "IsConfident": true
+      },
+      {
+        "id": "2559",
+        "name": "RoomNetworkOpenConnectionMessageComposer",
+        "asNamespace": "_-Ik",
+        "asClass": "_-y1t",
+        "IsConfident": true
+      },
+      {
+        "id": "2566",
+        "name": "CreateFlatMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-EV",
+        "IsConfident": true
+      },
+      {
+        "id": "2579",
+        "name": "GuideSessionIsTypingMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-EO",
+        "IsConfident": true
+      },
+      {
+        "id": "2598",
+        "name": "Game2GetWeeklyGroupLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "Game2GetWeeklyGroupLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "2599",
+        "name": "RemoveAdminRightsFromMemberMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-Nq",
+        "IsConfident": true
+      },
+      {
+        "id": "2604",
+        "name": "RentableSpaceRentMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-N12",
+        "IsConfident": true
+      },
+      {
+        "id": "2614",
+        "name": "RequestFurniInventoryWhenNotInRoomComposer",
+        "asNamespace": "_-t8",
+        "asClass": "_-b1m",
+        "IsConfident": true
+      },
+      {
+        "id": "2619",
+        "name": "SubmitRoomToCompetitionMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-l1O",
+        "IsConfident": true
+      },
+      {
+        "id": "2622",
+        "name": "GetRoomAdPurchaseInfoComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-r1S",
+        "IsConfident": true
+      },
+      {
+        "id": "2624",
+        "name": "Game2GetAccountGameStatusMessageComposer",
+        "asNamespace": "_-81Y",
+        "asClass": "Game2GetAccountGameStatusMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "2629",
+        "name": "EnterOneWayDoorMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-x1R",
+        "IsConfident": true
+      },
+      {
+        "id": "2636",
+        "name": "RoomAdEventTabViewedComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-p1T",
+        "IsConfident": true
+      },
+      {
+        "id": "2637",
+        "name": "EventLogMessageComposer",
+        "asNamespace": "_-qv",
+        "asClass": "_-6o",
+        "IsConfident": true
+      },
+      {
+        "id": "2645",
+        "name": "PassCarryItemMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-NQ",
+        "IsConfident": true
+      },
+      {
+        "id": "2647",
+        "name": "ModMuteMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-5v",
+        "IsConfident": true
+      },
+      {
+        "id": "265",
+        "name": "GetTargetedOfferComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-cV",
+        "IsConfident": true
+      },
+      {
+        "id": "2655",
+        "name": "SetRoomSessionTagsMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-kr",
+        "IsConfident": true
+      },
+      {
+        "id": "2658",
+        "name": "FriendRequestQuestCompleteMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-015",
+        "IsConfident": true
+      },
+      {
+        "id": "2670",
+        "name": "RespectPetMessageComposer",
+        "asNamespace": "_-m1i",
+        "asClass": "_-31P",
+        "IsConfident": true
+      },
+      {
+        "id": "2673",
+        "name": "GetForumsListMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-JT",
+        "IsConfident": true
+      },
+      {
+        "id": "2677",
+        "name": "PlaceObjectMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-xZ",
+        "IsConfident": true
+      },
+      {
+        "id": "2679",
+        "name": "GetConcurrentUsersGoalProgressMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-y1W",
+        "IsConfident": true
+      },
+      {
+        "id": "2686",
+        "name": "AvatarExpressionMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-la",
+        "IsConfident": true
+      },
+      {
+        "id": "2704",
+        "name": "CompostPlantMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-P1k",
+        "IsConfident": true
+      },
+      {
+        "id": "2705",
+        "name": "GetBotInventoryComposer",
+        "asNamespace": "_-OR",
+        "asClass": "_-wg",
+        "IsConfident": true
+      },
+      {
+        "id": "2714",
+        "name": "RoomDimmerSavePresetMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-3v",
+        "IsConfident": true
+      },
+      {
+        "id": "2727",
+        "name": "SSOTicketMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-w1R",
+        "IsConfident": true
+      },
+      {
+        "id": "2730",
+        "name": "KickMemberMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-tq",
+        "IsConfident": true
+      },
+      {
+        "id": "2741",
+        "name": "UniqueIDMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-A1Z",
+        "IsConfident": true
+      },
+      {
+        "id": "2753",
+        "name": "ChatReviewGuideDecidesOnOfferMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-v11",
+        "IsConfident": true
+      },
+      {
+        "id": "2761",
+        "name": "BanUserWithDurationMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-PJ",
+        "IsConfident": true
+      },
+      {
+        "id": "2763",
+        "name": "MuteAllInRoomComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-F1J",
+        "IsConfident": true
+      },
+      {
+        "id": "277",
+        "name": "UpdateFigureDataMessageComposer",
+        "asNamespace": "_-3W",
+        "asClass": "_-p1r",
+        "IsConfident": true
+      },
+      {
+        "id": "2770",
+        "name": "NewUserExperienceGetGiftsMessageComposer",
+        "asNamespace": "_-IS",
+        "asClass": "_-3y",
+        "IsConfident": true
+      },
+      {
+        "id": "2779",
+        "name": "RoomsWithHighestScoreSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-01b",
+        "IsConfident": true
+      },
+      {
+        "id": "2791",
+        "name": "KickUserMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-y1m",
+        "IsConfident": true
+      },
+      {
+        "id": "2794",
+        "name": "FriendFurniConfirmLockMessageComposer",
+        "asNamespace": "_-6q",
+        "asClass": "_-Rh",
+        "IsConfident": true
+      },
+      {
+        "id": "2808",
+        "name": "TogglePetBreedingPermissionMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-Gu",
+        "IsConfident": true
+      },
+      {
+        "id": "2814",
+        "name": "CloseIssueDefaultActionMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-ZO",
+        "IsConfident": true
+      },
+      {
+        "id": "2829",
+        "name": "NewNavigatorSearchComposer",
+        "asNamespace": "_-kT",
+        "asClass": "_-L1i",
+        "IsConfident": true
+      },
+      {
+        "id": "283",
+        "name": "SetItemDataMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-xh",
+        "IsConfident": true
+      },
+      {
+        "id": "2830",
+        "name": "SetCustomStackingHeightComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-iR",
+        "IsConfident": true
+      },
+      {
+        "id": "2831",
+        "name": "UpdateRoomCategoryAndTradeSettingsComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-P1K",
+        "IsConfident": true
+      },
+      {
+        "id": "2838",
+        "name": "GetUserFlatCatsMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-81h",
+        "IsConfident": true
+      },
+      {
+        "id": "2841",
+        "name": "MyRoomsSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-f13",
+        "IsConfident": true
+      },
+      {
+        "id": "2849",
+        "name": "Game2StartSnowWarMessageComposer",
+        "asNamespace": "_-81Y",
+        "asClass": "_-o1W",
+        "IsConfident": true
+      },
+      {
+        "id": "2855",
+        "name": "RenderRoomThumbnailMessageComposer",
+        "asNamespace": "com.sulake.habbo.communication.messages.outgoing.camera",
+        "asClass": "_-Ep",
+        "IsConfident": true
+      },
+      {
+        "id": "2856",
+        "name": "UpdateHomeRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-F1C",
+        "IsConfident": true
+      },
+      {
+        "id": "2872",
+        "name": "GiveStarGemToUserMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-8Q",
+        "IsConfident": true
+      },
+      {
+        "id": "2895",
+        "name": "InterstitialShownMessageComposer",
+        "asNamespace": "_-e1A",
+        "asClass": "_-m1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "2900",
+        "name": "DeleteRoomMessageComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-mv",
+        "IsConfident": true
+      },
+      {
+        "id": "2913",
+        "name": "RoomUsersClassificationMessageComposer",
+        "asNamespace": "_-8c",
+        "asClass": "_-Wd",
+        "IsConfident": true
+      },
+      {
+        "id": "2917",
+        "name": "MyFavouriteRoomsSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-YZ",
+        "IsConfident": true
+      },
+      {
+        "id": "2925",
+        "name": "ModerateThreadMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-P1R",
+        "IsConfident": true
+      },
+      {
+        "id": "295",
+        "name": "OpenMysteryTrophyMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-81T",
+        "IsConfident": true
+      },
+      {
+        "id": "2958",
+        "name": "ForwardToSomeRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-N1R",
+        "IsConfident": true
+      },
+      {
+        "id": "2966",
+        "name": "GetCatalogPageExpirationComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-C1r",
+        "IsConfident": true
+      },
+      {
+        "id": "2970",
+        "name": "GetIsUserPartOfCompetitionMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-g1k",
+        "IsConfident": true
+      },
+      {
+        "id": "2971",
+        "name": "Game2MakeSnowballMessageComposer",
+        "asNamespace": "_-EH",
+        "asClass": "Game2MakeSnowballMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "2974",
+        "name": "GetJukeboxPlayListMessageComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-RE",
+        "IsConfident": true
+      },
+      {
+        "id": "2997",
+        "name": "MarkCatalogNewAdditionsPageOpenedComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-N1t",
+        "IsConfident": true
+      },
+      {
+        "id": "30",
+        "name": "RenderRoomMessageComposer",
+        "asNamespace": "com.sulake.habbo.communication.messages.outgoing.camera",
+        "asClass": "_-i1T",
+        "IsConfident": true
+      },
+      {
+        "id": "3003",
+        "name": "PollStartComposer",
+        "asNamespace": "_-G1z",
+        "asClass": "_-G7",
+        "IsConfident": true
+      },
+      {
+        "id": "3006",
+        "name": "RoomTextSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-lR",
+        "IsConfident": true
+      },
+      {
+        "id": "3030",
+        "name": "ScrGetKickbackInfoMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-W18",
+        "IsConfident": true
+      },
+      {
+        "id": "3047",
+        "name": "MyGuildBasesSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-i7",
+        "IsConfident": true
+      },
+      {
+        "id": "3048",
+        "name": "SetChatStylePreferenceComposer",
+        "asNamespace": "_-71W",
+        "asClass": "_-I6",
+        "IsConfident": true
+      },
+      {
+        "id": "3061",
+        "name": "DeselectFavouriteHabboGroupMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-sk",
+        "IsConfident": true
+      },
+      {
+        "id": "3063",
+        "name": "MovePetMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-I3",
+        "IsConfident": true
+      },
+      {
+        "id": "3079",
+        "name": "BuildersClubQueryFurniCountMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-d1t",
+        "IsConfident": true
+      },
+      {
+        "id": "3089",
+        "name": "Game2GetTotalGroupLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "Game2GetTotalGroupLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "3092",
+        "name": "SaveRoomSettingsMessageComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-S1C",
+        "IsConfident": true
+      },
+      {
+        "id": "3111",
+        "name": "RedeemVoucherMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-Oc",
+        "IsConfident": true
+      },
+      {
+        "id": "3115",
+        "name": "IgnoreUserMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-XI",
+        "IsConfident": true
+      },
+      {
+        "id": "3121",
+        "name": "FollowFriendMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-5Z",
+        "IsConfident": true
+      },
+      {
+        "id": "3152",
+        "name": "GetQuizQuestionsComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-F1H",
+        "IsConfident": true
+      },
+      {
+        "id": "3153",
+        "name": "GetThreadsMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-R1T",
+        "IsConfident": true
+      },
+      {
+        "id": "3154",
+        "name": "CallForHelpFromForumMessageMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-h10",
+        "IsConfident": true
+      },
+      {
+        "id": "3168",
+        "name": "AddAdminRightsToMemberMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-91y",
+        "IsConfident": true
+      },
+      {
+        "id": "3169",
+        "name": "OpenCampaignCalendarDoorComposer",
+        "asNamespace": "_-x1N",
+        "asClass": "_-i1d",
+        "IsConfident": true
+      },
+      {
+        "id": "3171",
+        "name": "GetForumStatsMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-01Y",
+        "IsConfident": true
+      },
+      {
+        "id": "3174",
+        "name": "MysteryBoxWaitingCanceledMessageComposer",
+        "asNamespace": "_-Cx",
+        "asClass": "_-k1P",
+        "IsConfident": true
+      },
+      {
+        "id": "3177",
+        "name": "GuideSessionFeedbackMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-31g",
+        "IsConfident": true
+      },
+      {
+        "id": "3178",
+        "name": "PurchasePhotoMessageComposer",
+        "asNamespace": "com.sulake.habbo.communication.messages.outgoing.camera",
+        "asClass": "_-h1x",
+        "IsConfident": true
+      },
+      {
+        "id": "3195",
+        "name": "ConfirmPetBreedingComposer",
+        "asNamespace": "_-u15",
+        "asClass": "_-12N",
+        "IsConfident": true
+      },
+      {
+        "id": "3200",
+        "name": "PurchaseBasicMembershipExtensionComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-aG",
+        "IsConfident": true
+      },
+      {
+        "id": "3207",
+        "name": "GetRoomVisitsMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-Ss",
+        "IsConfident": true
+      },
+      {
+        "id": "3210",
+        "name": "ChatReviewGuideVoteMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-79",
+        "IsConfident": true
+      },
+      {
+        "id": "3214",
+        "name": "GetCfhStatusMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-NA",
+        "IsConfident": true
+      },
+      {
+        "id": "3216",
+        "name": "GuideSessionMessageMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-cl",
+        "IsConfident": true
+      },
+      {
+        "id": "3223",
+        "name": "GetHabboGroupDetailsMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-G1o",
+        "IsConfident": true
+      },
+      {
+        "id": "3247",
+        "name": "AcceptQuestMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-81L",
+        "IsConfident": true
+      },
+      {
+        "id": "3250",
+        "name": "GetMarketplaceOwnOffersMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-22P",
+        "IsConfident": true
+      },
+      {
+        "id": "3266",
+        "name": "GetCategoriesWithUserCountMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-r1d",
+        "IsConfident": true
+      },
+      {
+        "id": "3271",
+        "name": "DeactivateGuildMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-tD",
+        "IsConfident": true
+      },
+      {
+        "id": "3289",
+        "name": "GetFlatControllersMessageComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-v12",
+        "IsConfident": true
+      },
+      {
+        "id": "3297",
+        "name": "UnblockGroupMemberMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-jt",
+        "IsConfident": true
+      },
+      {
+        "id": "3298",
+        "name": "AddFavouriteRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-11Z",
+        "IsConfident": true
+      },
+      {
+        "id": "330",
+        "name": "UpdateActionMessageComposer",
+        "asNamespace": "_-t14",
+        "asClass": "_-rM",
+        "IsConfident": true
+      },
+      {
+        "id": "3311",
+        "name": "GetModeratorRoomInfoMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-o7",
+        "IsConfident": true
+      },
+      {
+        "id": "3317",
+        "name": "ChangeMottoMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-t1A",
+        "IsConfident": true
+      },
+      {
+        "id": "3326",
+        "name": "RemoveItemFromTradeComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-x1T",
+        "IsConfident": true
+      },
+      {
+        "id": "3331",
+        "name": "AddSpamWallPostItMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-WE",
+        "IsConfident": true
+      },
+      {
+        "id": "3332",
+        "name": "MoveObjectMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-fA",
+        "IsConfident": true
+      },
+      {
+        "id": "3337",
+        "name": "CheckUserNameMessageComposer",
+        "asNamespace": "_-s3",
+        "asClass": "_-fW",
+        "IsConfident": true
+      },
+      {
+        "id": "3343",
+        "name": "SetSoundSettingsComposer",
+        "asNamespace": "_-71W",
+        "asClass": "_-51X",
+        "IsConfident": true
+      },
+      {
+        "id": "3356",
+        "name": "Game2RequestFullStatusUpdateMessageComposer",
+        "asNamespace": "_-EH",
+        "asClass": "Game2RequestFullStatusUpdateMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "3362",
+        "name": "GetFurnitureAliasesMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-Kn",
+        "IsConfident": true
+      },
+      {
+        "id": "3363",
+        "name": "BreedPetsMessageComposer",
+        "asNamespace": "_-m1i",
+        "asClass": "_-Q4",
+        "IsConfident": true
+      },
+      {
+        "id": "3369",
+        "name": "ActivateQuestMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-51e",
+        "IsConfident": true
+      },
+      {
+        "id": "3375",
+        "name": "GetUserNftWardrobeMessageComposer",
+        "asNamespace": "_-GV",
+        "asClass": "GetUserNftWardrobeMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "3379",
+        "name": "GetDailyQuestMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-Kw",
+        "IsConfident": true
+      },
+      {
+        "id": "338",
+        "name": "CustomizePetWithFurniComposer",
+        "asNamespace": "_-m1i",
+        "asClass": "_-bc",
+        "IsConfident": true
+      },
+      {
+        "id": "3383",
+        "name": "LookToMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-L1y",
+        "IsConfident": true
+      },
+      {
+        "id": "3401",
+        "name": "SetChatPreferencesMessageComposer",
+        "asNamespace": "_-71W",
+        "asClass": "_-Lm",
+        "IsConfident": true
+      },
+      {
+        "id": "3407",
+        "name": "CreateGuildMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-gN",
+        "IsConfident": true
+      },
+      {
+        "id": "3425",
+        "name": "GetYoutubeDisplayStatusMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-Eq",
+        "IsConfident": true
+      },
+      {
+        "id": "3426",
+        "name": "ConvertGlobalRoomIdMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-H4",
+        "IsConfident": true
+      },
+      {
+        "id": "3455",
+        "name": "GetRentOrBuyoutOfferMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-210",
+        "IsConfident": true
+      },
+      {
+        "id": "3460",
+        "name": "PostMessageMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-H1z",
+        "IsConfident": true
+      },
+      {
+        "id": "3469",
+        "name": "MyRoomRightsSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-o1J",
+        "IsConfident": true
+      },
+      {
+        "id": "3470",
+        "name": "MyRoomHistorySearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-DI",
+        "IsConfident": true
+      },
+      {
+        "id": "3482",
+        "name": "Game2ThrowSnowballAtPositionMessageComposer",
+        "asNamespace": "_-EH",
+        "asClass": "Game2ThrowSnowballAtPositionMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "3489",
+        "name": "CreditFurniRedeemMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-R1z",
+        "IsConfident": true
+      },
+      {
+        "id": "3502",
+        "name": "SendMsgMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-n1d",
+        "IsConfident": true
+      },
+      {
+        "id": "3507",
+        "name": "ModToolPreferencesComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-21j",
+        "IsConfident": true
+      },
+      {
+        "id": "3513",
+        "name": "TryPhoneNumberMessageComposer",
+        "asNamespace": "_-T7",
+        "asClass": "_-Au",
+        "IsConfident": true
+      },
+      {
+        "id": "3519",
+        "name": "RedeemCommunityGoalPrizeMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-32s",
+        "IsConfident": true
+      },
+      {
+        "id": "3521",
+        "name": "PollAnswerComposer",
+        "asNamespace": "_-G1z",
+        "asClass": "_-m1E",
+        "IsConfident": true
+      },
+      {
+        "id": "3528",
+        "name": "CompetitionRoomsSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-sg",
+        "IsConfident": true
+      },
+      {
+        "id": "3544",
+        "name": "GetBadgePointLimitsComposer",
+        "asNamespace": "_-i1z",
+        "asClass": "_-F1e",
+        "IsConfident": true
+      },
+      {
+        "id": "3557",
+        "name": "GetGuildFurniContextMenuInfoMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-51u",
+        "IsConfident": true
+      },
+      {
+        "id": "3559",
+        "name": "GetWardrobeMessageComposer",
+        "asNamespace": "_-s3",
+        "asClass": "_-G1d",
+        "IsConfident": true
+      },
+      {
+        "id": "3562",
+        "name": "MoveWallItemMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-s1o",
+        "IsConfident": true
+      },
+      {
+        "id": "3570",
+        "name": "ModerateRoomMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-lx",
+        "IsConfident": true
+      },
+      {
+        "id": "3582",
+        "name": "RemoveItemMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-nc",
+        "IsConfident": true
+      },
+      {
+        "id": "359",
+        "name": "SetActivatedBadgesComposer",
+        "asNamespace": "_-i1z",
+        "asClass": "_-h1v",
+        "IsConfident": true
+      },
+      {
+        "id": "3594",
+        "name": "SetClothingChangeDataMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-L1o",
+        "IsConfident": true
+      },
+      {
+        "id": "3599",
+        "name": "PostQuizAnswersComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-z16",
+        "IsConfident": true
+      },
+      {
+        "id": "3616",
+        "name": "GetPetInfoMessageComposer",
+        "asNamespace": "_-m1i",
+        "asClass": "_-22V",
+        "IsConfident": true
+      },
+      {
+        "id": "363",
+        "name": "GetIgnoredUsersMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-d12",
+        "IsConfident": true
+      },
+      {
+        "id": "3638",
+        "name": "RateFlatMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-VI",
+        "IsConfident": true
+      },
+      {
+        "id": "3641",
+        "name": "RemoveFriendMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-W11",
+        "IsConfident": true
+      },
+      {
+        "id": "3643",
+        "name": "GetBannedUsersFromRoomMessageComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-F1n",
+        "IsConfident": true
+      },
+      {
+        "id": "3644",
+        "name": "SpinWheelOfFortuneMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-Ix",
+        "IsConfident": true
+      },
+      {
+        "id": "3645",
+        "name": "SearchFaqsMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-816",
+        "IsConfident": true
+      },
+      {
+        "id": "3658",
+        "name": "GetSoundSettingsComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-6T",
+        "IsConfident": true
+      },
+      {
+        "id": "3669",
+        "name": "SaveUserNftWardrobeMessageComposer",
+        "asNamespace": "_-GV",
+        "asClass": "SaveUserNftWardrobeMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "3671",
+        "name": "NavigatorDeleteSavedSearchComposer",
+        "asNamespace": "_-kT",
+        "asClass": "_-C1j",
+        "IsConfident": true
+      },
+      {
+        "id": "3677",
+        "name": "VerifyCodeMessageComposer",
+        "asNamespace": "_-T7",
+        "asClass": "_-WC",
+        "IsConfident": true
+      },
+      {
+        "id": "3678",
+        "name": "UpdateGuildBadgeMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-n11",
+        "IsConfident": true
+      },
+      {
+        "id": "3681",
+        "name": "GetNowPlayingMessageComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-5p",
+        "IsConfident": true
+      },
+      {
+        "id": "3684",
+        "name": "GetSelectedBadgesMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-vv",
+        "IsConfident": true
+      },
+      {
+        "id": "3690",
+        "name": "SetObjectDataMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-I1v",
+        "IsConfident": true
+      },
+      {
+        "id": "3691",
+        "name": "PollRejectComposer",
+        "asNamespace": "_-G1z",
+        "asClass": "_-S1H",
+        "IsConfident": true
+      },
+      {
+        "id": "370",
+        "name": "BuildersClubPlaceRoomItemMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-H9",
+        "IsConfident": true
+      },
+      {
+        "id": "3702",
+        "name": "GetClientFaqsMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-eA",
+        "IsConfident": true
+      },
+      {
+        "id": "3722",
+        "name": "Game2LoadStageReadyMessageComposer",
+        "asNamespace": "_-PD",
+        "asClass": "Game2LoadStageReadyMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "3726",
+        "name": "HarvestPetMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-nJ",
+        "IsConfident": true
+      },
+      {
+        "id": "3727",
+        "name": "ThrowDiceMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-TK",
+        "IsConfident": true
+      },
+      {
+        "id": "3734",
+        "name": "UnignoreUserMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-6P",
+        "IsConfident": true
+      },
+      {
+        "id": "3751",
+        "name": "CraftComposer",
+        "asNamespace": "_-FJ",
+        "asClass": "_-z1i",
+        "IsConfident": true
+      },
+      {
+        "id": "3757",
+        "name": "ModKickMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-IX",
+        "IsConfident": true
+      },
+      {
+        "id": "3763",
+        "name": "NewNavigatorInitComposer",
+        "asNamespace": "_-kT",
+        "asClass": "_-Fz",
+        "IsConfident": true
+      },
+      {
+        "id": "3767",
+        "name": "GetGuestRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-c1I",
+        "IsConfident": true
+      },
+      {
+        "id": "3770",
+        "name": "SignMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-l11",
+        "IsConfident": true
+      },
+      {
+        "id": "3771",
+        "name": "GetGiftMessageComposer",
+        "asNamespace": "_-T7",
+        "asClass": "_-G4",
+        "IsConfident": true
+      },
+      {
+        "id": "3774",
+        "name": "AvatarEffectActivatedComposer",
+        "asNamespace": "_-d1R",
+        "asClass": "_-S1Z",
+        "IsConfident": true
+      },
+      {
+        "id": "3775",
+        "name": "IgnoreUserIdMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-A1E",
+        "IsConfident": true
+      },
+      {
+        "id": "3784",
+        "name": "ChatMessageComposer",
+        "asNamespace": "_-21B",
+        "asClass": "_-51g",
+        "IsConfident": true
+      },
+      {
+        "id": "3797",
+        "name": "GetMessagesMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-M1f",
+        "IsConfident": true
+      },
+      {
+        "id": "3807",
+        "name": "GiveSupplementToPetMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-e9",
+        "IsConfident": true
+      },
+      {
+        "id": "3825",
+        "name": "GetMemberGuildItemCountMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-Bv",
+        "IsConfident": true
+      },
+      {
+        "id": "3836",
+        "name": "MyFrequentRoomHistorySearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-q1L",
+        "IsConfident": true
+      },
+      {
+        "id": "3852",
+        "name": "HabboSearchMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-k1v",
+        "IsConfident": true
+      },
+      {
+        "id": "3866",
+        "name": "DropCarryItemMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-2Y",
+        "IsConfident": true
+      },
+      {
+        "id": "3873",
+        "name": "GetRoomChatlogMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-FO",
+        "IsConfident": true
+      },
+      {
+        "id": "3881",
+        "name": "Game2GetTotalLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "Game2GetTotalLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "3882",
+        "name": "UpdateForumSettingsMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-1Q",
+        "IsConfident": true
+      },
+      {
+        "id": "3886",
+        "name": "BuyMarketplaceOfferMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-12F",
+        "IsConfident": true
+      },
+      {
+        "id": "3899",
+        "name": "CancelQuestMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-bD",
+        "IsConfident": true
+      },
+      {
+        "id": "3907",
+        "name": "UnbanUserFromRoomMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-e1z",
+        "IsConfident": true
+      },
+      {
+        "id": "3911",
+        "name": "ConfirmDeclineTradingComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-sa",
+        "IsConfident": true
+      },
+      {
+        "id": "3919",
+        "name": "ChangePostureMessageComposer",
+        "asNamespace": "_-L1z",
+        "asClass": "_-KB",
+        "IsConfident": true
+      },
+      {
+        "id": "3920",
+        "name": "ApproveAllMembershipRequestsMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-U1u",
+        "IsConfident": true
+      },
+      {
+        "id": "3926",
+        "name": "ControlYoutubeDisplayPlaybackMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-HR",
+        "IsConfident": true
+      },
+      {
+        "id": "3932",
+        "name": "NavigatorAddSavedSearchComposer",
+        "asNamespace": "_-kT",
+        "asClass": "_-lJ",
+        "IsConfident": true
+      },
+      {
+        "id": "3934",
+        "name": "GetPetCommandsMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-7X",
+        "IsConfident": true
+      },
+      {
+        "id": "3947",
+        "name": "SetMannequinFigureComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-J1p",
+        "IsConfident": true
+      },
+      {
+        "id": "3948",
+        "name": "GetIsOfferGiftableComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-X1y",
+        "IsConfident": true
+      },
+      {
+        "id": "3949",
+        "name": "ApproveMembershipRequestMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-gy",
+        "IsConfident": true
+      },
+      {
+        "id": "396",
+        "name": "NavigatorSetSearchCodeViewModeMessageComposer",
+        "asNamespace": "_-kT",
+        "asClass": "_-w1g",
+        "IsConfident": true
+      },
+      {
+        "id": "3965",
+        "name": "CreditVaultStatusMessageComposer",
+        "asNamespace": "_-mx",
+        "asClass": "_-az",
+        "IsConfident": true
+      },
+      {
+        "id": "3969",
+        "name": "GetOfficialRoomsMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-q1E",
+        "IsConfident": true
+      },
+      {
+        "id": "3988",
+        "name": "DefaultSanctionMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-9M",
+        "IsConfident": true
+      },
+      {
+        "id": "3990",
+        "name": "NewUserExperienceScriptProceedComposer",
+        "asNamespace": "_-IS",
+        "asClass": "_-I1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "3998",
+        "name": "RedeemMarketplaceOfferCreditsMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-3B",
+        "IsConfident": true
+      },
+      {
+        "id": "400",
+        "name": "GetThreadMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-02B",
+        "IsConfident": true
+      },
+      {
+        "id": "4000",
+        "name": "ClientHelloMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-c1t",
+        "IsConfident": true
+      },
+      {
+        "id": "417",
+        "name": "GetHabboGroupBadgesMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-2c",
+        "IsConfident": true
+      },
+      {
+        "id": "42",
+        "name": "InitDiffieHandshakeMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-T1Q",
+        "IsConfident": true
+      },
+      {
+        "id": "422",
+        "name": "GetNextTargetedOfferComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-IZ",
+        "IsConfident": true
+      },
+      {
+        "id": "428",
+        "name": "AssignRightsMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-Li",
+        "IsConfident": true
+      },
+      {
+        "id": "436",
+        "name": "VersionCheckMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-1C",
+        "IsConfident": true
+      },
+      {
+        "id": "444",
+        "name": "SetRoomBackgroundColorDataComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-d1H",
+        "IsConfident": true
+      },
+      {
+        "id": "448",
+        "name": "Game2GetFriendsLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "Game2GetFriendsLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "454",
+        "name": "ModTradingLockMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-XB",
+        "IsConfident": true
+      },
+      {
+        "id": "48",
+        "name": "GetCatalogIndexComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-C1N",
+        "IsConfident": true
+      },
+      {
+        "id": "480",
+        "name": "StartCampaignMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-eG",
+        "IsConfident": true
+      },
+      {
+        "id": "481",
+        "name": "DeletePendingCallsForHelpMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-X1f",
+        "IsConfident": true
+      },
+      {
+        "id": "482",
+        "name": "GetPendingCallsForHelpMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-d1B",
+        "IsConfident": true
+      },
+      {
+        "id": "491",
+        "name": "GetCurrentTimingCodeMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-iy",
+        "IsConfident": true
+      },
+      {
+        "id": "493",
+        "name": "GetTalentTrackLevelMessageComposer",
+        "asNamespace": "_-f1P",
+        "asClass": "_-o1p",
+        "IsConfident": true
+      },
+      {
+        "id": "503",
+        "name": "LatencyPingReportMessageComposer",
+        "asNamespace": "_-qv",
+        "asClass": "_-F1E",
+        "IsConfident": true
+      },
+      {
+        "id": "505",
+        "name": "PickupObjectMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-n1n",
+        "IsConfident": true
+      },
+      {
+        "id": "510",
+        "name": "GetCraftingRecipeComposer",
+        "asNamespace": "_-FJ",
+        "asClass": "_-ky",
+        "IsConfident": true
+      },
+      {
+        "id": "513",
+        "name": "ModToolSanctionComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-112",
+        "IsConfident": true
+      },
+      {
+        "id": "52",
+        "name": "GuideSessionGetRequesterRoomMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-f1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "525",
+        "name": "DiceOffMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-l1K",
+        "IsConfident": true
+      },
+      {
+        "id": "532",
+        "name": "RemoveJukeboxDiskComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-s7",
+        "IsConfident": true
+      },
+      {
+        "id": "569",
+        "name": "ChatReviewGuideDetachedMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-j1v",
+        "IsConfident": true
+      },
+      {
+        "id": "57",
+        "name": "GuideSessionRequesterCancelsMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-tl",
+        "IsConfident": true
+      },
+      {
+        "id": "575",
+        "name": "GetGuildMembersMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-r1H",
+        "IsConfident": true
+      },
+      {
+        "id": "586",
+        "name": "ModeratorActionMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-h1V",
+        "IsConfident": true
+      },
+      {
+        "id": "608",
+        "name": "DeclineFriendMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-Uq",
+        "IsConfident": true
+      },
+      {
+        "id": "611",
+        "name": "Game2GetWeeklyFriendsLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "Game2GetWeeklyFriendsLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "621",
+        "name": "ModBanMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-4m",
+        "IsConfident": true
+      },
+      {
+        "id": "623",
+        "name": "GetWeeklyCompetitiveLeaderboardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "GetWeeklyCompetitiveLeaderboardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "662",
+        "name": "SetTargetedOfferStateComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-BK",
+        "IsConfident": true
+      },
+      {
+        "id": "67",
+        "name": "TogglePetRidingPermissionMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-w10",
+        "IsConfident": true
+      },
+      {
+        "id": "671",
+        "name": "CompleteDiffieHandshakeMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-CO",
+        "IsConfident": true
+      },
+      {
+        "id": "673",
+        "name": "PlaceBotMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-v1y",
+        "IsConfident": true
+      },
+      {
+        "id": "687",
+        "name": "PurchaseVipMembershipExtensionComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-c",
+        "IsConfident": true
+      },
+      {
+        "id": "693",
+        "name": "PopularRoomsSearchMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-12z",
+        "IsConfident": true
+      },
+      {
+        "id": "720",
+        "name": "RemoveAllRightsMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-t1p",
+        "IsConfident": true
+      },
+      {
+        "id": "732",
+        "name": "SetRandomStateMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-s1r",
+        "IsConfident": true
+      },
+      {
+        "id": "735",
+        "name": "GetGuildCreationInfoMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-91B",
+        "IsConfident": true
+      },
+      {
+        "id": "738",
+        "name": "AddItemsToTradeComposer",
+        "asNamespace": "_-K1C",
+        "asClass": "_-r1A",
+        "IsConfident": true
+      },
+      {
+        "id": "746",
+        "name": "GetMarketplaceItemStatsComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-Vj",
+        "IsConfident": true
+      },
+      {
+        "id": "747",
+        "name": "CallForHelpFromPhotoMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-01u",
+        "IsConfident": true
+      },
+      {
+        "id": "772",
+        "name": "AddJukeboxDiskComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-41t",
+        "IsConfident": true
+      },
+      {
+        "id": "780",
+        "name": "SetUIFlagsMessageComposer",
+        "asNamespace": "_-71W",
+        "asClass": "_-J1B",
+        "IsConfident": true
+      },
+      {
+        "id": "786",
+        "name": "RequestRoomPropertySet",
+        "asNamespace": "_-t8",
+        "asClass": "_-fQ",
+        "IsConfident": true
+      },
+      {
+        "id": "789",
+        "name": "SelectFavouriteHabboGroupMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-J1w",
+        "IsConfident": true
+      },
+      {
+        "id": "796",
+        "name": "Game2ThrowSnowballAtHumanMessageComposer",
+        "asNamespace": "_-EH",
+        "asClass": "Game2ThrowSnowballAtHumanMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "824",
+        "name": "GetModeratorUserInfoMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-21k",
+        "IsConfident": true
+      },
+      {
+        "id": "828",
+        "name": "InfoRetrieveMessageComposer",
+        "asNamespace": "_-g18",
+        "asClass": "_-KE",
+        "IsConfident": true
+      },
+      {
+        "id": "829",
+        "name": "GetCustomRoomFilterMessageComposer",
+        "asNamespace": "_-o1x",
+        "asClass": "_-jO",
+        "IsConfident": true
+      },
+      {
+        "id": "836",
+        "name": "ForwardToRandomCompetitionRoomMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-T1d",
+        "IsConfident": true
+      },
+      {
+        "id": "848",
+        "name": "RemoveRightsMessageComposer",
+        "asNamespace": "_-p1Y",
+        "asClass": "_-12l",
+        "IsConfident": true
+      },
+      {
+        "id": "85",
+        "name": "ExtendRentOrBuyoutStripItemMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-fM",
+        "IsConfident": true
+      },
+      {
+        "id": "862",
+        "name": "GetIsBadgeRequestFulfilledComposer",
+        "asNamespace": "_-i1z",
+        "asClass": "_-R4",
+        "IsConfident": true
+      },
+      {
+        "id": "865",
+        "name": "GetBadgesComposer",
+        "asNamespace": "_-i1z",
+        "asClass": "_-1p",
+        "IsConfident": true
+      },
+      {
+        "id": "87",
+        "name": "GetHabboBasicMembershipExtendOfferComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-U1I",
+        "IsConfident": true
+      },
+      {
+        "id": "885",
+        "name": "ToggleStaffPickMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-MG",
+        "IsConfident": true
+      },
+      {
+        "id": "886",
+        "name": "GetWeeklyGameRewardComposer",
+        "asNamespace": "_-H16",
+        "asClass": "GetWeeklyGameRewardComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "904",
+        "name": "UseWallItemMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-H1H",
+        "IsConfident": true
+      },
+      {
+        "id": "912",
+        "name": "GetFaqTextMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-Cz",
+        "IsConfident": true
+      },
+      {
+        "id": "92",
+        "name": "Game2CheckGameDirectoryStatusMessageComposer",
+        "asNamespace": "_-81Y",
+        "asClass": "Game2CheckGameDirectoryStatusMessageComposer",
+        "IsConfident": true
+      },
+      {
+        "id": "926",
+        "name": "GetCommunityGoalEarnedPrizesMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-21n",
+        "IsConfident": true
+      },
+      {
+        "id": "929",
+        "name": "GetSongInfoMessageComposer",
+        "asNamespace": "_-v5",
+        "asClass": "_-x1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "931",
+        "name": "RoomAdPurchaseInitiatedComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-q1k",
+        "IsConfident": true
+      },
+      {
+        "id": "938",
+        "name": "RequestABadgeComposer",
+        "asNamespace": "_-i1z",
+        "asClass": "_-zE",
+        "IsConfident": true
+      },
+      {
+        "id": "941",
+        "name": "UpdateThreadMessageComposer",
+        "asNamespace": "_-VM",
+        "asClass": "_-e1l",
+        "IsConfident": true
+      },
+      {
+        "id": "944",
+        "name": "GetConcurrentUsersRewardMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-9j",
+        "IsConfident": true
+      },
+      {
+        "id": "95",
+        "name": "RoomAdEventTabAdClickedComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-TD",
+        "IsConfident": true
+      },
+      {
+        "id": "962",
+        "name": "MyRecommendedRoomsMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-w9",
+        "IsConfident": true
+      },
+      {
+        "id": "97",
+        "name": "ModMessageMessageComposer",
+        "asNamespace": "_-2s",
+        "asClass": "_-41B",
+        "IsConfident": true
+      },
+      {
+        "id": "973",
+        "name": "SendRoomInviteMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-w1U",
+        "IsConfident": true
+      },
+      {
+        "id": "987",
+        "name": "GetGuildEditorDataMessageComposer",
+        "asNamespace": "_-XO",
+        "asClass": "_-e1H",
+        "IsConfident": true
+      },
+      {
+        "id": "99",
+        "name": "GuideSessionReportMessageComposer",
+        "asNamespace": "_-51c",
+        "asClass": "_-y1P",
+        "IsConfident": true
+      },
+      {
+        "id": "1043",
+        "name": "RoomCompetitionInitMessageComposer",
+        "asNamespace": "_-hV",
+        "asClass": "_-W",
+        "IsConfident": true
+      },
+      {
+        "id": "1047",
+        "name": "GetBonusRareInfoMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-Gm",
+        "IsConfident": true
+      },
+      {
+        "id": "1234",
+        "name": "GetSeasonalQuestsOnlyMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-n1E",
+        "IsConfident": true
+      },
+      {
+        "id": "1278",
+        "name": "GuideAdvertisementReadMessageComposer",
+        "asNamespace": "_-f1P",
+        "asClass": "_-K1K",
+        "IsConfident": true
+      },
+      {
+        "id": "14",
+        "name": "FriendListUpdateMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-g6",
+        "IsConfident": true
+      },
+      {
+        "id": "1651",
+        "name": "GetMarketplaceConfigurationMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-ql",
+        "IsConfident": true
+      },
+      {
+        "id": "1719",
+        "name": "OpenQuestTrackerMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-es",
+        "IsConfident": true
+      },
+      {
+        "id": "1778",
+        "name": "RejectQuestMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-Sy",
+        "IsConfident": true
+      },
+      {
+        "id": "1981",
+        "name": "GetClubGiftMessageComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-Lt",
+        "IsConfident": true
+      },
+      {
+        "id": "2249",
+        "name": "GetCatalogPageWithEarliestExpiryComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-zd",
+        "IsConfident": true
+      },
+      {
+        "id": "2319",
+        "name": "GetQuestsMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-32",
+        "IsConfident": true
+      },
+      {
+        "id": "2395",
+        "name": "StartTypingMessageComposer",
+        "asNamespace": "_-21B",
+        "asClass": "_-Xh",
+        "IsConfident": true
+      },
+      {
+        "id": "2531",
+        "name": "GetMarketplaceCanMakeOfferMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-7u",
+        "IsConfident": true
+      },
+      {
+        "id": "2882",
+        "name": "GetRoomEntryTileMessageComposer",
+        "asNamespace": "_-J4",
+        "asClass": "_-4r",
+        "IsConfident": true
+      },
+      {
+        "id": "291",
+        "name": "GetCommunityGoalProgressMessageComposer",
+        "asNamespace": "_-61d",
+        "asClass": "_-jP",
+        "IsConfident": true
+      },
+      {
+        "id": "2928",
+        "name": "RoomDimmerChangeStateMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-tr",
+        "IsConfident": true
+      },
+      {
+        "id": "2949",
+        "name": "RequestCameraConfigurationMessageComposer",
+        "asNamespace": "com.sulake.habbo.communication.messages.outgoing.camera",
+        "asClass": "_-F1U",
+        "IsConfident": true
+      },
+      {
+        "id": "2952",
+        "name": "QuitMessageComposer",
+        "asNamespace": "_-IR",
+        "asClass": "_-hs",
+        "IsConfident": true
+      },
+      {
+        "id": "3209",
+        "name": "CanCreateRoomMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-21C",
+        "IsConfident": true
+      },
+      {
+        "id": "3260",
+        "name": "GetLimitedOfferAppearingNextComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-YM",
+        "IsConfident": true
+      },
+      {
+        "id": "3263",
+        "name": "BuyMarketplaceTokensMessageComposer",
+        "asNamespace": "_-CH",
+        "asClass": "_-V1R",
+        "IsConfident": true
+      },
+      {
+        "id": "335",
+        "name": "GetOccupiedTilesMessageComposer",
+        "asNamespace": "_-J4",
+        "asClass": "_-r1W",
+        "IsConfident": true
+      },
+      {
+        "id": "347",
+        "name": "RoomDimmerGetPresetsMessageComposer",
+        "asNamespace": "_-02a",
+        "asClass": "_-02r",
+        "IsConfident": true
+      },
+      {
+        "id": "35",
+        "name": "GetFriendRequestsMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-te",
+        "IsConfident": true
+      },
+      {
+        "id": "3511",
+        "name": "GetBundleDiscountRulesetComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-M17",
+        "IsConfident": true
+      },
+      {
+        "id": "3539",
+        "name": "GetUserEventCatsMessageComposer",
+        "asNamespace": "_-M1k",
+        "asClass": "_-cF",
+        "IsConfident": true
+      },
+      {
+        "id": "3575",
+        "name": "CancelTypingMessageComposer",
+        "asNamespace": "_-21B",
+        "asClass": "_-D1L",
+        "IsConfident": true
+      },
+      {
+        "id": "3742",
+        "name": "GetHeightMapMessageComposer",
+        "asNamespace": "_-j1G",
+        "asClass": "_-om",
+        "IsConfident": true
+      },
+      {
+        "id": "3877",
+        "name": "MessengerInitMessageComposer",
+        "asNamespace": "_-Po",
+        "asClass": "_-WX",
+        "IsConfident": true
+      },
+      {
+        "id": "418",
+        "name": "GetGiftWrappingConfigurationComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-EG",
+        "IsConfident": true
+      },
+      {
+        "id": "799",
+        "name": "GetSeasonalCalendarDailyComposer",
+        "asNamespace": "_-q1n",
+        "asClass": "_-32p",
+        "IsConfident": true
+      },
+      {
+        "id": "880",
+        "name": "GetPromoArticlesMessageComposer",
+        "asNamespace": "com.sulake.habbo.communication.messages.outgoing.landingview",
+        "asClass": "_-E14",
+        "IsConfident": true
+      }
+    ],
+    "incoming": [
+      {
+        "id": "1004",
+        "name": "WhisperMessageEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-hg",
+        "IsConfident": true
+      },
+      {
+        "id": "1007",
+        "name": "RoomVisitsEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-a1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "1011",
+        "name": "Game2TotalLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "Game2TotalLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "1021",
+        "name": "Game2StageRunningMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-B1F",
+        "IsConfident": true
+      },
+      {
+        "id": "1022",
+        "name": "AvatarEffectsMessageEvent",
+        "asNamespace": "_-w19",
+        "asClass": "_-G1V",
+        "IsConfident": true
+      },
+      {
+        "id": "103",
+        "name": "ObjectRemoveMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-Y1T",
+        "IsConfident": true
+      },
+      {
+        "id": "1049",
+        "name": "CarryObjectMessageEvent",
+        "asNamespace": "_-O1Z",
+        "asClass": "_-P1G",
+        "IsConfident": true
+      },
+      {
+        "id": "1056",
+        "name": "MarketPlaceOwnOffersEvent",
+        "asNamespace": "_-qw",
+        "asClass": "_-FG",
+        "IsConfident": true
+      },
+      {
+        "id": "1057",
+        "name": "BotSkillListUpdateEvent",
+        "asNamespace": "_-u7",
+        "asClass": "_-1b",
+        "IsConfident": true
+      },
+      {
+        "id": "106",
+        "name": "ModeratorRoomInfoEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-mo",
+        "IsConfident": true
+      },
+      {
+        "id": "1090",
+        "name": "ModeratorCautionEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-619",
+        "IsConfident": true
+      },
+      {
+        "id": "1091",
+        "name": "TradingConfirmationEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-z1I",
+        "IsConfident": true
+      },
+      {
+        "id": "1092",
+        "name": "Game2EnterArenaMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-T1y",
+        "IsConfident": true
+      },
+      {
+        "id": "1099",
+        "name": "YouAreNotControllerMessageEvent",
+        "asNamespace": "_-r1a",
+        "asClass": "_-Ma",
+        "IsConfident": true
+      },
+      {
+        "id": "1108",
+        "name": "PetBreedingResultEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-m1v",
+        "IsConfident": true
+      },
+      {
+        "id": "1109",
+        "name": "GuideSessionMessageMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-R1s",
+        "IsConfident": true
+      },
+      {
+        "id": "1113",
+        "name": "InterstitialMessageEvent",
+        "asNamespace": "_-Q1p",
+        "asClass": "_-6V",
+        "IsConfident": true
+      },
+      {
+        "id": "1115",
+        "name": "NoobnessLevelMessageEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-zA",
+        "IsConfident": true
+      },
+      {
+        "id": "1116",
+        "name": "UserNameChangedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-tP",
+        "IsConfident": true
+      },
+      {
+        "id": "1133",
+        "name": "GuildMembersMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-ct",
+        "IsConfident": true
+      },
+      {
+        "id": "114",
+        "name": "HabboBroadcastMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-q1S",
+        "IsConfident": true
+      },
+      {
+        "id": "1142",
+        "name": "FriendNotificationEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-H15",
+        "IsConfident": true
+      },
+      {
+        "id": "1147",
+        "name": "IsOfferGiftableMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-41",
+        "IsConfident": true
+      },
+      {
+        "id": "1149",
+        "name": "UserChatlogEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-g1Q",
+        "IsConfident": true
+      },
+      {
+        "id": "1151",
+        "name": "PingMessageEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-51Q",
+        "IsConfident": true
+      },
+      {
+        "id": "1163",
+        "name": "ChatReviewSessionDetachedMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-j1H",
+        "IsConfident": true
+      },
+      {
+        "id": "1166",
+        "name": "RoomPropertyMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-01M",
+        "IsConfident": true
+      },
+      {
+        "id": "1175",
+        "name": "Game2GameCreatedMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "_-Q1x",
+        "IsConfident": true
+      },
+      {
+        "id": "118",
+        "name": "GuildEditFailedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-OC",
+        "IsConfident": true
+      },
+      {
+        "id": "1181",
+        "name": "BannedUsersFromRoomEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-Z1f",
+        "IsConfident": true
+      },
+      {
+        "id": "1186",
+        "name": "PetCommandsMessageEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-I1m",
+        "IsConfident": true
+      },
+      {
+        "id": "1202",
+        "name": "UserFlatCatsEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-X11",
+        "IsConfident": true
+      },
+      {
+        "id": "1217",
+        "name": "RoomInviteEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-Uo",
+        "IsConfident": true
+      },
+      {
+        "id": "1221",
+        "name": "Game2StopCounterMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2StopCounterMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "1238",
+        "name": "TradingNotOpenEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-sf",
+        "IsConfident": true
+      },
+      {
+        "id": "1241",
+        "name": "AccountSafetyLockStatusChangeMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-91E",
+        "IsConfident": true
+      },
+      {
+        "id": "125",
+        "name": "VoucherRedeemOkMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-fD",
+        "IsConfident": true
+      },
+      {
+        "id": "1251",
+        "name": "ShowEnforceRoomCategoryDialogEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-DL",
+        "IsConfident": true
+      },
+      {
+        "id": "1260",
+        "name": "RoomAdErrorEvent",
+        "asNamespace": "_-Q1p",
+        "asClass": "_-Px",
+        "IsConfident": true
+      },
+      {
+        "id": "1267",
+        "name": "AvatarEffectExpiredMessageEvent",
+        "asNamespace": "_-w19",
+        "asClass": "_-A1D",
+        "IsConfident": true
+      },
+      {
+        "id": "1270",
+        "name": "AvailabilityTimeMessageEvent",
+        "asNamespace": "_-a5",
+        "asClass": "_-l1m",
+        "IsConfident": true
+      },
+      {
+        "id": "1273",
+        "name": "CatalogPageMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-fx",
+        "IsConfident": true
+      },
+      {
+        "id": "1291",
+        "name": "SleepMessageEvent",
+        "asNamespace": "_-O1Z",
+        "asClass": "_-51L",
+        "IsConfident": true
+      },
+      {
+        "id": "1293",
+        "name": "UserRightsMessageEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-Fc",
+        "IsConfident": true
+      },
+      {
+        "id": "1335",
+        "name": "PollErrorEvent",
+        "asNamespace": "_-ja",
+        "asClass": "_-51H",
+        "IsConfident": true
+      },
+      {
+        "id": "1340",
+        "name": "PetAddedToInventoryEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-mH",
+        "IsConfident": true
+      },
+      {
+        "id": "1342",
+        "name": "Game2GameCancelledMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2GameCancelledMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "1349",
+        "name": "RoomQueueStatusMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-er",
+        "IsConfident": true
+      },
+      {
+        "id": "1356",
+        "name": "PlayListSongAddedMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-ar",
+        "IsConfident": true
+      },
+      {
+        "id": "1358",
+        "name": "CanCreateRoomEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-31n",
+        "IsConfident": true
+      },
+      {
+        "id": "1360",
+        "name": "AvatarEffectActivatedMessageEvent",
+        "asNamespace": "_-w19",
+        "asClass": "_-BG",
+        "IsConfident": true
+      },
+      {
+        "id": "1362",
+        "name": "RoomFilterSettingsMessageEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-vR",
+        "IsConfident": true
+      },
+      {
+        "id": "1372",
+        "name": "HabboGroupDeactivatedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-nv",
+        "IsConfident": true
+      },
+      {
+        "id": "1379",
+        "name": "SecondsUntilMessageEvent",
+        "asNamespace": "_-g1x",
+        "asClass": "_-G1g",
+        "IsConfident": true
+      },
+      {
+        "id": "1383",
+        "name": "UsersMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-sr",
+        "IsConfident": true
+      },
+      {
+        "id": "1393",
+        "name": "Game2InArenaQueueMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2InArenaQueueMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "1403",
+        "name": "DanceMessageEvent",
+        "asNamespace": "_-O1Z",
+        "asClass": "_-b1O",
+        "IsConfident": true
+      },
+      {
+        "id": "1409",
+        "name": "HabboAchievementNotificationMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-w1t",
+        "IsConfident": true
+      },
+      {
+        "id": "141",
+        "name": "CameraSnapshotMessageEvent",
+        "asNamespace": "_-pi",
+        "asClass": "_-N1W",
+        "IsConfident": true
+      },
+      {
+        "id": "1412",
+        "name": "HabboClubOffersMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-t1f",
+        "IsConfident": true
+      },
+      {
+        "id": "1431",
+        "name": "CompetitionRoomsDataMessageEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-q1U",
+        "IsConfident": true
+      },
+      {
+        "id": "1436",
+        "name": "FurniListAddOrUpdateEvent",
+        "asNamespace": "_-Go",
+        "asClass": "_-g1u",
+        "IsConfident": true
+      },
+      {
+        "id": "144",
+        "name": "ErrorReportEvent",
+        "asNamespace": "_-ps",
+        "asClass": "_-XP",
+        "IsConfident": true
+      },
+      {
+        "id": "1456",
+        "name": "NavigatorMetaDataEvent",
+        "asNamespace": "_-21f",
+        "asClass": "_-ac",
+        "IsConfident": true
+      },
+      {
+        "id": "1467",
+        "name": "OfficialRoomsEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-k1Z",
+        "IsConfident": true
+      },
+      {
+        "id": "1473",
+        "name": "CanCreateRoomEventEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-k1M",
+        "IsConfident": true
+      },
+      {
+        "id": "1480",
+        "name": "ActivityPointsMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-OA",
+        "IsConfident": true
+      },
+      {
+        "id": "1483",
+        "name": "ItemDataUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-K1w",
+        "IsConfident": true
+      },
+      {
+        "id": "1492",
+        "name": "RoomRatingEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-q16",
+        "IsConfident": true
+      },
+      {
+        "id": "1493",
+        "name": "AvatarEffectMessageEvent",
+        "asNamespace": "_-O1Z",
+        "asClass": "_-bF",
+        "IsConfident": true
+      },
+      {
+        "id": "15",
+        "name": "FigureUpdateEvent",
+        "asNamespace": "_-a1N",
+        "asClass": "_-V1N",
+        "IsConfident": true
+      },
+      {
+        "id": "150",
+        "name": "FlatControllersEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-32B",
+        "IsConfident": true
+      },
+      {
+        "id": "1509",
+        "name": "MaintenanceStatusMessageEvent",
+        "asNamespace": "_-a5",
+        "asClass": "_-T10",
+        "IsConfident": true
+      },
+      {
+        "id": "1533",
+        "name": "JukeboxPlayListFullMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-Ct",
+        "IsConfident": true
+      },
+      {
+        "id": "1534",
+        "name": "GroupMembershipRequestedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-19",
+        "IsConfident": true
+      },
+      {
+        "id": "1536",
+        "name": "FurnitureAliasesMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-Bo",
+        "IsConfident": true
+      },
+      {
+        "id": "1538",
+        "name": "InfoHotelClosedMessageEvent",
+        "asNamespace": "_-a5",
+        "asClass": "_-3C",
+        "IsConfident": true
+      },
+      {
+        "id": "1539",
+        "name": "TalentTrackLevelMessageEvent",
+        "asNamespace": "_-Y1c",
+        "asClass": "_-2u",
+        "IsConfident": true
+      },
+      {
+        "id": "1541",
+        "name": "IsUserPartOfCompetitionMessageEvent",
+        "asNamespace": "_-g1x",
+        "asClass": "_-LA",
+        "IsConfident": true
+      },
+      {
+        "id": "1543",
+        "name": "UserBannedMessageEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-l13",
+        "IsConfident": true
+      },
+      {
+        "id": "1548",
+        "name": "LatencyPingResponseMessageEvent",
+        "asNamespace": "_-b1B",
+        "asClass": "_-l14",
+        "IsConfident": true
+      },
+      {
+        "id": "1562",
+        "name": "CampaignCalendarDoorOpenedMessageEvent",
+        "asNamespace": "_-TS",
+        "asClass": "_-3S",
+        "IsConfident": true
+      },
+      {
+        "id": "1567",
+        "name": "BadgesEvent",
+        "asNamespace": "_-a2",
+        "asClass": "_-hc",
+        "IsConfident": true
+      },
+      {
+        "id": "157",
+        "name": "FlatCreatedEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-m1e",
+        "IsConfident": true
+      },
+      {
+        "id": "1591",
+        "name": "Game2WeeklyFriendsLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "Game2WeeklyFriendsLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "1593",
+        "name": "ModeratorToolPreferencesEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-Hc",
+        "IsConfident": true
+      },
+      {
+        "id": "1607",
+        "name": "ShoutMessageEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-C3",
+        "IsConfident": true
+      },
+      {
+        "id": "1609",
+        "name": "TradingYouAreNotAllowedEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-s1F",
+        "IsConfident": true
+      },
+      {
+        "id": "1612",
+        "name": "TalentTrackMessageEvent",
+        "asNamespace": "_-Y1c",
+        "asClass": "_-B1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "1615",
+        "name": "CreditVaultStatusMessageEvent",
+        "asNamespace": "_-Fh",
+        "asClass": "_-D1e",
+        "IsConfident": true
+      },
+      {
+        "id": "1625",
+        "name": "Game2UserJoinedGameMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "_-dl",
+        "IsConfident": true
+      },
+      {
+        "id": "1632",
+        "name": "FlatControllerRemovedEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-No",
+        "IsConfident": true
+      },
+      {
+        "id": "1642",
+        "name": "Game2TotalGroupLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "Game2TotalGroupLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "1644",
+        "name": "NotEnoughBalanceMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-91d",
+        "IsConfident": true
+      },
+      {
+        "id": "1659",
+        "name": "AchievementResolutionCompletedMessageEvent",
+        "asNamespace": "_-q1B",
+        "asClass": "_-Q9",
+        "IsConfident": true
+      },
+      {
+        "id": "1661",
+        "name": "CampaignCalendarDataMessageEvent",
+        "asNamespace": "_-TS",
+        "asClass": "_-i0",
+        "IsConfident": true
+      },
+      {
+        "id": "1676",
+        "name": "ApproveNameMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-d19",
+        "IsConfident": true
+      },
+      {
+        "id": "1688",
+        "name": "PetInventoryEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-hh",
+        "IsConfident": true
+      },
+      {
+        "id": "1712",
+        "name": "PostItPlacedEvent",
+        "asNamespace": "_-Go",
+        "asClass": "_-j18",
+        "IsConfident": true
+      },
+      {
+        "id": "1740",
+        "name": "GuideSessionInvitedToGuideRoomMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-S1Q",
+        "IsConfident": true
+      },
+      {
+        "id": "1743",
+        "name": "ExpressionMessageEvent",
+        "asNamespace": "_-O1Z",
+        "asClass": "_-n17",
+        "IsConfident": true
+      },
+      {
+        "id": "1749",
+        "name": "CommunityGoalEarnedPrizesMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-Gt",
+        "IsConfident": true
+      },
+      {
+        "id": "1759",
+        "name": "GuildMembershipUpdatedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-X1B",
+        "IsConfident": true
+      },
+      {
+        "id": "1765",
+        "name": "RoomVisualizationSettingsEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-K18",
+        "IsConfident": true
+      },
+      {
+        "id": "1766",
+        "name": "CraftableProductsMessageEvent",
+        "asNamespace": "_-W1S",
+        "asClass": "_-j3",
+        "IsConfident": true
+      },
+      {
+        "id": "1768",
+        "name": "MOTDNotificationEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-S1P",
+        "IsConfident": true
+      },
+      {
+        "id": "1769",
+        "name": "IncomeRewardClaimResponseMessageEvent",
+        "asNamespace": "_-Fh",
+        "asClass": "_-bL",
+        "IsConfident": true
+      },
+      {
+        "id": "1785",
+        "name": "ForumsListMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-Oo",
+        "IsConfident": true
+      },
+      {
+        "id": "1786",
+        "name": "FavouriteChangedEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-S1l",
+        "IsConfident": true
+      },
+      {
+        "id": "1792",
+        "name": "CraftingRecipesAvailableMessageEvent",
+        "asNamespace": "_-W1S",
+        "asClass": "_-n1z",
+        "IsConfident": true
+      },
+      {
+        "id": "1794",
+        "name": "BotReceivedMessageEvent",
+        "asNamespace": "_-qg",
+        "asClass": "_-L16",
+        "IsConfident": true
+      },
+      {
+        "id": "1795",
+        "name": "TryVerificationCodeResultMessageEvent",
+        "asNamespace": "_-Sv",
+        "asClass": "_-51h",
+        "IsConfident": true
+      },
+      {
+        "id": "1801",
+        "name": "RoomThumbnailUpdateResultEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-B1J",
+        "IsConfident": true
+      },
+      {
+        "id": "1805",
+        "name": "HotLooksMessageEvent",
+        "asNamespace": "_-B1i",
+        "asClass": "_-z1W",
+        "IsConfident": true
+      },
+      {
+        "id": "1808",
+        "name": "CreditBalanceEvent",
+        "asNamespace": "_-12y",
+        "asClass": "_-B1m",
+        "IsConfident": true
+      },
+      {
+        "id": "1811",
+        "name": "BotErrorEvent",
+        "asNamespace": "_-u7",
+        "asClass": "_-71f",
+        "IsConfident": true
+      },
+      {
+        "id": "1813",
+        "name": "PetInfoMessageEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-5q",
+        "IsConfident": true
+      },
+      {
+        "id": "1814",
+        "name": "TryPhoneNumberResultMessageEvent",
+        "asNamespace": "_-Sv",
+        "asClass": "_-N1F",
+        "IsConfident": true
+      },
+      {
+        "id": "1833",
+        "name": "RemainingMutePeriodEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-i12",
+        "IsConfident": true
+      },
+      {
+        "id": "1839",
+        "name": "CompetitionEntrySubmitResultMessageEvent",
+        "asNamespace": "_-g1x",
+        "asClass": "_-Jq",
+        "IsConfident": true
+      },
+      {
+        "id": "1841",
+        "name": "LoginFailedHotelClosedMessageEvent",
+        "asNamespace": "_-a5",
+        "asClass": "_-X8",
+        "IsConfident": true
+      },
+      {
+        "id": "1880",
+        "name": "PhoneCollectionStateMessageEvent",
+        "asNamespace": "_-Sv",
+        "asClass": "_-Zb",
+        "IsConfident": true
+      },
+      {
+        "id": "1884",
+        "name": "CommunityVoteReceivedEvent",
+        "asNamespace": "_-H0",
+        "asClass": "_-yf",
+        "IsConfident": true
+      },
+      {
+        "id": "1892",
+        "name": "ChangeUserNameResultMessageEvent",
+        "asNamespace": "_-a1N",
+        "asClass": "_-z8",
+        "IsConfident": true
+      },
+      {
+        "id": "1910",
+        "name": "Game2UserBlockedMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2UserBlockedMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "1923",
+        "name": "PetPlacingErrorEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-X1V",
+        "IsConfident": true
+      },
+      {
+        "id": "1928",
+        "name": "FriendListUpdateEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-M1U",
+        "IsConfident": true
+      },
+      {
+        "id": "1933",
+        "name": "NewUserExperienceGiftOfferEvent",
+        "asNamespace": "_-Y12",
+        "asClass": "_-2m",
+        "IsConfident": true
+      },
+      {
+        "id": "1941",
+        "name": "GiftReceiverNotFoundEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-1l",
+        "IsConfident": true
+      },
+      {
+        "id": "1947",
+        "name": "FavoriteMembershipUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-O0",
+        "IsConfident": true
+      },
+      {
+        "id": "1961",
+        "name": "HotelMergeNameChangeEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-uJ",
+        "IsConfident": true
+      },
+      {
+        "id": "1966",
+        "name": "RoomEntryTileMessageEvent",
+        "asNamespace": "_-12m",
+        "asClass": "_-T1G",
+        "IsConfident": true
+      },
+      {
+        "id": "1979",
+        "name": "PetLevelNotificationEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-Ck",
+        "IsConfident": true
+      },
+      {
+        "id": "1980",
+        "name": "TradingCompletedEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-Z12",
+        "IsConfident": true
+      },
+      {
+        "id": "1982",
+        "name": "FollowFriendFailedEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-H1l",
+        "IsConfident": true
+      },
+      {
+        "id": "1985",
+        "name": "ModeratorMessageEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-BI",
+        "IsConfident": true
+      },
+      {
+        "id": "2003",
+        "name": "PostThreadMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-s1V",
+        "IsConfident": true
+      },
+      {
+        "id": "2008",
+        "name": "WiredFurniTriggerEvent",
+        "asNamespace": "_-l12",
+        "asClass": "_-11S",
+        "IsConfident": true
+      },
+      {
+        "id": "2017",
+        "name": "ChatReviewSessionResultsMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-AA",
+        "IsConfident": true
+      },
+      {
+        "id": "2027",
+        "name": "GiftWrappingConfigurationEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-ZI",
+        "IsConfident": true
+      },
+      {
+        "id": "2036",
+        "name": "GoToBreedingNestFailureEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-t1M",
+        "IsConfident": true
+      },
+      {
+        "id": "2066",
+        "name": "AchievementsEvent",
+        "asNamespace": "_-p1o",
+        "asClass": "_-s1b",
+        "IsConfident": true
+      },
+      {
+        "id": "2100",
+        "name": "GuideReportingStatusMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-f1k",
+        "IsConfident": true
+      },
+      {
+        "id": "2104",
+        "name": "UserRemoveMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-q1q",
+        "IsConfident": true
+      },
+      {
+        "id": "2108",
+        "name": "SellablePetPalettesMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-CB",
+        "IsConfident": true
+      },
+      {
+        "id": "2116",
+        "name": "NavigatorSettingsEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-BT",
+        "IsConfident": true
+      },
+      {
+        "id": "2118",
+        "name": "GuildCreatedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-714",
+        "IsConfident": true
+      },
+      {
+        "id": "2123",
+        "name": "Game2StageLoadMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-A11",
+        "IsConfident": true
+      },
+      {
+        "id": "2125",
+        "name": "JukeboxSongDisksMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-b1q",
+        "IsConfident": true
+      },
+      {
+        "id": "2130",
+        "name": "FavouritesEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-G1b",
+        "IsConfident": true
+      },
+      {
+        "id": "2143",
+        "name": "CraftingResultMessageEvent",
+        "asNamespace": "_-W1S",
+        "asClass": "_-U1y",
+        "IsConfident": true
+      },
+      {
+        "id": "2147",
+        "name": "Game2StartingGameFailedMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2StartingGameFailedMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "2153",
+        "name": "CompetitionStatusMessageEvent",
+        "asNamespace": "_-du",
+        "asClass": "_-xc",
+        "IsConfident": true
+      },
+      {
+        "id": "2157",
+        "name": "NewNavigatorPreferencesEvent",
+        "asNamespace": "_-21f",
+        "asClass": "_-AY",
+        "IsConfident": true
+      },
+      {
+        "id": "2161",
+        "name": "FloodControlMessageEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-G1n",
+        "IsConfident": true
+      },
+      {
+        "id": "2163",
+        "name": "PromoArticlesMessageEvent",
+        "asNamespace": "_-Eh",
+        "asClass": "_-J13",
+        "IsConfident": true
+      },
+      {
+        "id": "2166",
+        "name": "ClubGiftInfoEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-ep",
+        "IsConfident": true
+      },
+      {
+        "id": "217",
+        "name": "FurniListRemoveEvent",
+        "asNamespace": "_-Go",
+        "asClass": "_-O1b",
+        "IsConfident": true
+      },
+      {
+        "id": "2170",
+        "name": "IsFirstLoginOfDayEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-PT",
+        "IsConfident": true
+      },
+      {
+        "id": "2180",
+        "name": "CommunityGoalProgressMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-z1e",
+        "IsConfident": true
+      },
+      {
+        "id": "2182",
+        "name": "CompleteDiffieHandshakeEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-p1i",
+        "IsConfident": true
+      },
+      {
+        "id": "2184",
+        "name": "HabboUserBadgesMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-Ax",
+        "IsConfident": true
+      },
+      {
+        "id": "2187",
+        "name": "CompetitionVotingInfoMessageEvent",
+        "asNamespace": "_-g1x",
+        "asClass": "_-8Z",
+        "IsConfident": true
+      },
+      {
+        "id": "22",
+        "name": "Game2WeeklyLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "Game2WeeklyLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "220",
+        "name": "UserNftWardrobeSelectionMessageEvent",
+        "asNamespace": "_-T1p",
+        "asClass": "_-L1D",
+        "IsConfident": true
+      },
+      {
+        "id": "2201",
+        "name": "Game2PlayerExitedGameArenaMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-zK",
+        "IsConfident": true
+      },
+      {
+        "id": "2205",
+        "name": "OpenPetPackageResultMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-d1r",
+        "IsConfident": true
+      },
+      {
+        "id": "2216",
+        "name": "CatalogPageExpirationEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-Y1C",
+        "IsConfident": true
+      },
+      {
+        "id": "2220",
+        "name": "ObjectAddMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-P6",
+        "IsConfident": true
+      },
+      {
+        "id": "2233",
+        "name": "UpdateThreadMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-z1f",
+        "IsConfident": true
+      },
+      {
+        "id": "2249",
+        "name": "GuideOnDutyStatusMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-w1b",
+        "IsConfident": true
+      },
+      {
+        "id": "2252",
+        "name": "GuideSessionRequesterRoomMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-1",
+        "IsConfident": true
+      },
+      {
+        "id": "2254",
+        "name": "Game2StageStartingMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-kN",
+        "IsConfident": true
+      },
+      {
+        "id": "2267",
+        "name": "QuestionEvent",
+        "asNamespace": "_-ja",
+        "asClass": "_-wI",
+        "IsConfident": true
+      },
+      {
+        "id": "2303",
+        "name": "FaqCategoriesMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-yX",
+        "IsConfident": true
+      },
+      {
+        "id": "2307",
+        "name": "BotRemovedFromInventoryEvent",
+        "asNamespace": "_-qg",
+        "asClass": "_-F1I",
+        "IsConfident": true
+      },
+      {
+        "id": "2309",
+        "name": "CraftingRecipeMessageEvent",
+        "asNamespace": "_-W1S",
+        "asClass": "_-1E",
+        "IsConfident": true
+      },
+      {
+        "id": "2313",
+        "name": "MuteAllInRoomEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-80",
+        "IsConfident": true
+      },
+      {
+        "id": "2316",
+        "name": "GuideSessionDetachedMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-bI",
+        "IsConfident": true
+      },
+      {
+        "id": "2324",
+        "name": "FaqCategoryMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-81B",
+        "IsConfident": true
+      },
+      {
+        "id": "2331",
+        "name": "GuideSessionStartedMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-wj",
+        "IsConfident": true
+      },
+      {
+        "id": "2351",
+        "name": "CfhSanctionMessageEvent",
+        "asNamespace": "_-v1p",
+        "asClass": "_-j16",
+        "IsConfident": true
+      },
+      {
+        "id": "2355",
+        "name": "TalentLevelUpMessageEvent",
+        "asNamespace": "_-Y1c",
+        "asClass": "_-p1",
+        "IsConfident": true
+      },
+      {
+        "id": "2358",
+        "name": "ScrSendUserInfoEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-D1i",
+        "IsConfident": true
+      },
+      {
+        "id": "2364",
+        "name": "GuildMembershipRejectedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-n1v",
+        "IsConfident": true
+      },
+      {
+        "id": "2367",
+        "name": "GuildCreationInfoMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-81x",
+        "IsConfident": true
+      },
+      {
+        "id": "2381",
+        "name": "CustomUserNotificationMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-Mc",
+        "IsConfident": true
+      },
+      {
+        "id": "2382",
+        "name": "TraxSongInfoMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-sb",
+        "IsConfident": true
+      },
+      {
+        "id": "2387",
+        "name": "ObjectsMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-dz",
+        "IsConfident": true
+      },
+      {
+        "id": "239",
+        "name": "FigureSetIdAddedEvent",
+        "asNamespace": "_-i9",
+        "asClass": "_-3M",
+        "IsConfident": true
+      },
+      {
+        "id": "2391",
+        "name": "NewConsoleMessageEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-m1T",
+        "IsConfident": true
+      },
+      {
+        "id": "2400",
+        "name": "RespectNotificationMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-X1q",
+        "IsConfident": true
+      },
+      {
+        "id": "2406",
+        "name": "PetSupplementedNotificationEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-S1w",
+        "IsConfident": true
+      },
+      {
+        "id": "2414",
+        "name": "NoSuchFlatEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-Z0",
+        "IsConfident": true
+      },
+      {
+        "id": "2431",
+        "name": "GuildMemberFurniCountInHQMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-E7",
+        "IsConfident": true
+      },
+      {
+        "id": "2439",
+        "name": "AvatarEffectSelectedMessageEvent",
+        "asNamespace": "_-w19",
+        "asClass": "_-117",
+        "IsConfident": true
+      },
+      {
+        "id": "2443",
+        "name": "EpicPopupMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-y1U",
+        "IsConfident": true
+      },
+      {
+        "id": "2447",
+        "name": "InClientLinkMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-Rj",
+        "IsConfident": true
+      },
+      {
+        "id": "2465",
+        "name": "ItemAddMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-F14",
+        "IsConfident": true
+      },
+      {
+        "id": "247",
+        "name": "NoOwnedRoomsAlertMessageEvent",
+        "asNamespace": "_-g1x",
+        "asClass": "_-tX",
+        "IsConfident": true
+      },
+      {
+        "id": "2470",
+        "name": "BuildersClubFurniCountMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-l6",
+        "IsConfident": true
+      },
+      {
+        "id": "2481",
+        "name": "CatalogPageWithEarliestExpiryMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-xS",
+        "IsConfident": true
+      },
+      {
+        "id": "2483",
+        "name": "FloorHeightMapMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-G3",
+        "IsConfident": true
+      },
+      {
+        "id": "2493",
+        "name": "ProductOfferEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-a",
+        "IsConfident": true
+      },
+      {
+        "id": "2497",
+        "name": "GuideTicketCreationResultMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-Dp",
+        "IsConfident": true
+      },
+      {
+        "id": "2501",
+        "name": "GuildEditInfoMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-9Q",
+        "IsConfident": true
+      },
+      {
+        "id": "2502",
+        "name": "YouAreSpectatorMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-l18",
+        "IsConfident": true
+      },
+      {
+        "id": "2521",
+        "name": "CheckUserNameResultMessageEvent",
+        "asNamespace": "_-a1N",
+        "asClass": "_-U1q",
+        "IsConfident": true
+      },
+      {
+        "id": "253",
+        "name": "CallForHelpResultMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-61f",
+        "IsConfident": true
+      },
+      {
+        "id": "2539",
+        "name": "MarketplaceBuyOfferResultEvent",
+        "asNamespace": "_-qw",
+        "asClass": "_-ej",
+        "IsConfident": true
+      },
+      {
+        "id": "2543",
+        "name": "FriendFurniOtherLockConfirmedMessageEvent",
+        "asNamespace": "_-X7",
+        "asClass": "_-T1n",
+        "IsConfident": true
+      },
+      {
+        "id": "2550",
+        "name": "YouAreControllerMessageEvent",
+        "asNamespace": "_-r1a",
+        "asClass": "_-C1m",
+        "IsConfident": true
+      },
+      {
+        "id": "2555",
+        "name": "QuizResultsMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-J12",
+        "IsConfident": true
+      },
+      {
+        "id": "2556",
+        "name": "Game2StageEndingMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-C1s",
+        "IsConfident": true
+      },
+      {
+        "id": "2563",
+        "name": "ChatReviewSessionVotingStatusMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-Ag",
+        "IsConfident": true
+      },
+      {
+        "id": "2567",
+        "name": "IgnoredUsersMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-r5",
+        "IsConfident": true
+      },
+      {
+        "id": "2577",
+        "name": "TradingItemListEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-41v",
+        "IsConfident": true
+      },
+      {
+        "id": "2579",
+        "name": "HabboGroupJoinFailedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-b1M",
+        "IsConfident": true
+      },
+      {
+        "id": "2584",
+        "name": "RoomSettingsSavedEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-M1S",
+        "IsConfident": true
+      },
+      {
+        "id": "2589",
+        "name": "EmailStatusResultEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-k1E",
+        "IsConfident": true
+      },
+      {
+        "id": "2595",
+        "name": "RoomForwardMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-i1l",
+        "IsConfident": true
+      },
+      {
+        "id": "2598",
+        "name": "SeasonalQuestsMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-v1N",
+        "IsConfident": true
+      },
+      {
+        "id": "261",
+        "name": "UserChangeMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-Uf",
+        "IsConfident": true
+      },
+      {
+        "id": "2613",
+        "name": "FlatAccessibleMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-Z6",
+        "IsConfident": true
+      },
+      {
+        "id": "2619",
+        "name": "BotInventoryEvent",
+        "asNamespace": "_-qg",
+        "asClass": "_-H1p",
+        "IsConfident": true
+      },
+      {
+        "id": "2624",
+        "name": "MarketplaceCanMakeOfferResult",
+        "asNamespace": "_-qw",
+        "asClass": "_-F5",
+        "IsConfident": true
+      },
+      {
+        "id": "2643",
+        "name": "CurrentTimingCodeMessageEvent",
+        "asNamespace": "_-g1x",
+        "asClass": "_-Y1W",
+        "IsConfident": true
+      },
+      {
+        "id": "2653",
+        "name": "RentableSpaceRentFailedMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-aN",
+        "IsConfident": true
+      },
+      {
+        "id": "2673",
+        "name": "YoutubeDisplayVideoMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-g1i",
+        "IsConfident": true
+      },
+      {
+        "id": "2674",
+        "name": "PollOfferEvent",
+        "asNamespace": "_-ja",
+        "asClass": "_-j1",
+        "IsConfident": true
+      },
+      {
+        "id": "2688",
+        "name": "NestBreedingSuccessEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-P1p",
+        "IsConfident": true
+      },
+      {
+        "id": "269",
+        "name": "GamePlayerValueMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-xX",
+        "IsConfident": true
+      },
+      {
+        "id": "2696",
+        "name": "DiceValueMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-Mu",
+        "IsConfident": true
+      },
+      {
+        "id": "2697",
+        "name": "Game2GameStatusMessageEvent",
+        "asNamespace": "_-JZ",
+        "asClass": "_-a1u",
+        "IsConfident": true
+      },
+      {
+        "id": "2701",
+        "name": "FlatAccessDeniedMessageEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-aI",
+        "IsConfident": true
+      },
+      {
+        "id": "2703",
+        "name": "IgnoreResultMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-w1k",
+        "IsConfident": true
+      },
+      {
+        "id": "2704",
+        "name": "ModeratorActionResultMessageEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-B1t",
+        "IsConfident": true
+      },
+      {
+        "id": "2706",
+        "name": "AchievementEvent",
+        "asNamespace": "_-p1o",
+        "asClass": "_-vr",
+        "IsConfident": true
+      },
+      {
+        "id": "2708",
+        "name": "NavigatorSavedSearchesEvent",
+        "asNamespace": "_-21f",
+        "asClass": "_-02X",
+        "IsConfident": true
+      },
+      {
+        "id": "2710",
+        "name": "MarketplaceConfigurationEvent",
+        "asNamespace": "_-qw",
+        "asClass": "_-br",
+        "IsConfident": true
+      },
+      {
+        "id": "2711",
+        "name": "ObjectsDataUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-rh",
+        "IsConfident": true
+      },
+      {
+        "id": "2718",
+        "name": "UserClassificationMessageEvent",
+        "asNamespace": "_-M1G",
+        "asClass": "_-41p",
+        "IsConfident": true
+      },
+      {
+        "id": "2736",
+        "name": "ConvertedRoomIdEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-PL",
+        "IsConfident": true
+      },
+      {
+        "id": "2750",
+        "name": "CantConnectMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-sE",
+        "IsConfident": true
+      },
+      {
+        "id": "2751",
+        "name": "ChatReviewSessionStartedMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-126",
+        "IsConfident": true
+      },
+      {
+        "id": "2755",
+        "name": "Game2WeeklyGroupLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "Game2WeeklyGroupLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "2756",
+        "name": "FurniListInvalidateEvent",
+        "asNamespace": "_-Go",
+        "asClass": "_-HH",
+        "IsConfident": true
+      },
+      {
+        "id": "2760",
+        "name": "BotCommandConfigurationEvent",
+        "asNamespace": "_-u7",
+        "asClass": "_-j1l",
+        "IsConfident": true
+      },
+      {
+        "id": "2762",
+        "name": "ExtendedProfileChangedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-Nj",
+        "IsConfident": true
+      },
+      {
+        "id": "2765",
+        "name": "RoomSettingsDataEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-ds",
+        "IsConfident": true
+      },
+      {
+        "id": "2776",
+        "name": "WardrobeMessageEvent",
+        "asNamespace": "_-a1N",
+        "asClass": "_-1H",
+        "IsConfident": true
+      },
+      {
+        "id": "2789",
+        "name": "AcceptFriendResultEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-uG",
+        "IsConfident": true
+      },
+      {
+        "id": "2791",
+        "name": "WeeklyCompetitiveLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "WeeklyCompetitiveLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "2793",
+        "name": "GotMysteryBoxPrizeMessageEvent",
+        "asNamespace": "_-02s",
+        "asClass": "_-h1p",
+        "IsConfident": true
+      },
+      {
+        "id": "2794",
+        "name": "MarketplaceMakeOfferResult",
+        "asNamespace": "_-qw",
+        "asClass": "_-H1e",
+        "IsConfident": true
+      },
+      {
+        "id": "2795",
+        "name": "RoomEventEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-S1g",
+        "IsConfident": true
+      },
+      {
+        "id": "2800",
+        "name": "ModeratorInitMessageEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-m1q",
+        "IsConfident": true
+      },
+      {
+        "id": "2804",
+        "name": "ForumDataMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-22o",
+        "IsConfident": true
+      },
+      {
+        "id": "2810",
+        "name": "RoomDimmerPresetsMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-91Q",
+        "IsConfident": true
+      },
+      {
+        "id": "2823",
+        "name": "Game2GameLongDataMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "_-41P",
+        "IsConfident": true
+      },
+      {
+        "id": "2824",
+        "name": "ObjectUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-S1d",
+        "IsConfident": true
+      },
+      {
+        "id": "283",
+        "name": "NavigatorCollapsedCategoriesMessageEvent",
+        "asNamespace": "_-21f",
+        "asClass": "_-31b",
+        "IsConfident": true
+      },
+      {
+        "id": "2835",
+        "name": "RelationshipStatusInfoEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-412",
+        "IsConfident": true
+      },
+      {
+        "id": "2858",
+        "name": "VoucherRedeemErrorMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-J1e",
+        "IsConfident": true
+      },
+      {
+        "id": "2861",
+        "name": "OpenPetPackageRequestedMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-6U",
+        "IsConfident": true
+      },
+      {
+        "id": "2878",
+        "name": "PopularRoomTagsResultEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-Dm",
+        "IsConfident": true
+      },
+      {
+        "id": "2895",
+        "name": "Game2GameChatFromPlayerMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-51z",
+        "IsConfident": true
+      },
+      {
+        "id": "2905",
+        "name": "IssueCloseNotificationMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-Ab",
+        "IsConfident": true
+      },
+      {
+        "id": "291",
+        "name": "FurniRentOrBuyoutOfferMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-8u",
+        "IsConfident": true
+      },
+      {
+        "id": "2913",
+        "name": "PurchaseOKMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-61R",
+        "IsConfident": true
+      },
+      {
+        "id": "2920",
+        "name": "FriendFurniStartConfirmationMessageEvent",
+        "asNamespace": "_-X7",
+        "asClass": "_-m8",
+        "IsConfident": true
+      },
+      {
+        "id": "2924",
+        "name": "ThumbnailStatusMessageEvent",
+        "asNamespace": "_-du",
+        "asClass": "_-71R",
+        "IsConfident": true
+      },
+      {
+        "id": "2933",
+        "name": "IsBadgeRequestFulfilledEvent",
+        "asNamespace": "_-a2",
+        "asClass": "_-j17",
+        "IsConfident": true
+      },
+      {
+        "id": "2965",
+        "name": "UserUnbannedFromRoomEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-h17",
+        "IsConfident": true
+      },
+      {
+        "id": "2969",
+        "name": "UserTypingMessageEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-91p",
+        "IsConfident": true
+      },
+      {
+        "id": "2975",
+        "name": "DirectSMSClubBuyAvailableMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-c1E",
+        "IsConfident": true
+      },
+      {
+        "id": "2987",
+        "name": "Game2PlayerRematchesMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-h1a",
+        "IsConfident": true
+      },
+      {
+        "id": "3018",
+        "name": "InitCameraMessageEvent",
+        "asNamespace": "_-du",
+        "asClass": "_-Ua",
+        "IsConfident": true
+      },
+      {
+        "id": "3025",
+        "name": "Game2StartCounterMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2StartCounterMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "3035",
+        "name": "Game2StageStillLoadingMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-s1U",
+        "IsConfident": true
+      },
+      {
+        "id": "3036",
+        "name": "BotAddedToInventoryEvent",
+        "asNamespace": "_-qg",
+        "asClass": "_-9K",
+        "IsConfident": true
+      },
+      {
+        "id": "304",
+        "name": "RequestSpamWallPostItMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-n3",
+        "IsConfident": true
+      },
+      {
+        "id": "3050",
+        "name": "CallForHelpReplyMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-C12",
+        "IsConfident": true
+      },
+      {
+        "id": "3051",
+        "name": "FaqClientFaqsMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-819",
+        "IsConfident": true
+      },
+      {
+        "id": "3055",
+        "name": "ExtendedProfileMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-60",
+        "IsConfident": true
+      },
+      {
+        "id": "3063",
+        "name": "RoomOccupiedTilesMessageEvent",
+        "asNamespace": "_-12m",
+        "asClass": "_-UU",
+        "IsConfident": true
+      },
+      {
+        "id": "3064",
+        "name": "Game2FullGameStatusMessageEvent",
+        "asNamespace": "_-JZ",
+        "asClass": "_-c15",
+        "IsConfident": true
+      },
+      {
+        "id": "3066",
+        "name": "RoomInfoUpdatedEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-G1u",
+        "IsConfident": true
+      },
+      {
+        "id": "3072",
+        "name": "CallForHelpPendingCallsDeletedMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-12g",
+        "IsConfident": true
+      },
+      {
+        "id": "3073",
+        "name": "RentableSpaceStatusMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-b1o",
+        "IsConfident": true
+      },
+      {
+        "id": "3081",
+        "name": "SnowWarGameTokensMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "SnowWarGameTokensMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "3091",
+        "name": "PetStatusUpdateEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-PR",
+        "IsConfident": true
+      },
+      {
+        "id": "3108",
+        "name": "PurchaseNotAllowedMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-h1Q",
+        "IsConfident": true
+      },
+      {
+        "id": "3123",
+        "name": "GuildFurniContextMenuInfoMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-KL",
+        "IsConfident": true
+      },
+      {
+        "id": "3128",
+        "name": "PetReceivedMessageEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-211",
+        "IsConfident": true
+      },
+      {
+        "id": "3162",
+        "name": "CallForHelpDisabledNotifyMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-i1H",
+        "IsConfident": true
+      },
+      {
+        "id": "3176",
+        "name": "HabboSearchResultEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-D11",
+        "IsConfident": true
+      },
+      {
+        "id": "3179",
+        "name": "CloseConnectionMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-zC",
+        "IsConfident": true
+      },
+      {
+        "id": "3184",
+        "name": "AchievementResolutionsMessageEvent",
+        "asNamespace": "_-q1B",
+        "asClass": "_-uH",
+        "IsConfident": true
+      },
+      {
+        "id": "3189",
+        "name": "OpenEvent",
+        "asNamespace": "_-l12",
+        "asClass": "_-y1n",
+        "IsConfident": true
+      },
+      {
+        "id": "3190",
+        "name": "RoomChatSettingsMessageEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-2a",
+        "IsConfident": true
+      },
+      {
+        "id": "3194",
+        "name": "ForumThreadsMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-r1r",
+        "IsConfident": true
+      },
+      {
+        "id": "321",
+        "name": "FindFriendsProcessResultEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-eM",
+        "IsConfident": true
+      },
+      {
+        "id": "3212",
+        "name": "OneWayDoorStatusMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-xB",
+        "IsConfident": true
+      },
+      {
+        "id": "3213",
+        "name": "ChatMessageEvent",
+        "asNamespace": "_-Nk",
+        "asClass": "_-F16",
+        "IsConfident": true
+      },
+      {
+        "id": "3216",
+        "name": "PollContentsEvent",
+        "asNamespace": "_-ja",
+        "asClass": "_-P13",
+        "IsConfident": true
+      },
+      {
+        "id": "3220",
+        "name": "OfferRewardDeliveredMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-22g",
+        "IsConfident": true
+      },
+      {
+        "id": "3244",
+        "name": "ItemsMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-S1x",
+        "IsConfident": true
+      },
+      {
+        "id": "3246",
+        "name": "AccountPreferencesEvent",
+        "asNamespace": "_-R7",
+        "asClass": "_-h1u",
+        "IsConfident": true
+      },
+      {
+        "id": "325",
+        "name": "CitizenshipVipOfferPromoEnabledEvent",
+        "asNamespace": "_-111",
+        "asClass": "_-W16",
+        "IsConfident": true
+      },
+      {
+        "id": "3252",
+        "name": "ChangeEmailResultEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-d1s",
+        "IsConfident": true
+      },
+      {
+        "id": "3262",
+        "name": "ClubGiftSelectedEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-P4",
+        "IsConfident": true
+      },
+      {
+        "id": "3267",
+        "name": "NowPlayingMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-hr",
+        "IsConfident": true
+      },
+      {
+        "id": "327",
+        "name": "RoomInviteErrorEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-gH",
+        "IsConfident": true
+      },
+      {
+        "id": "3301",
+        "name": "NewUserExperienceNotCompleteEvent",
+        "asNamespace": "_-Y12",
+        "asClass": "_-T1o",
+        "IsConfident": true
+      },
+      {
+        "id": "3305",
+        "name": "CfhTopicsInitMessageEvent",
+        "asNamespace": "_-v1p",
+        "asClass": "_-k1C",
+        "IsConfident": true
+      },
+      {
+        "id": "3315",
+        "name": "FigureSetIdsEvent",
+        "asNamespace": "_-i9",
+        "asClass": "_-O1s",
+        "IsConfident": true
+      },
+      {
+        "id": "3322",
+        "name": "ElementPointerMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-li",
+        "IsConfident": true
+      },
+      {
+        "id": "333",
+        "name": "CallForHelpPendingCallsMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-3r",
+        "IsConfident": true
+      },
+      {
+        "id": "3338",
+        "name": "ConfirmBreedingRequestEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-zW",
+        "IsConfident": true
+      },
+      {
+        "id": "3352",
+        "name": "UniqueMachineIDEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-o1",
+        "IsConfident": true
+      },
+      {
+        "id": "336",
+        "name": "TradingOtherNotAllowedEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-Xj",
+        "IsConfident": true
+      },
+      {
+        "id": "3361",
+        "name": "UserObjectEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-MO",
+        "IsConfident": true
+      },
+      {
+        "id": "3364",
+        "name": "BuildersClubSubscriptionStatusMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-S1t",
+        "IsConfident": true
+      },
+      {
+        "id": "3365",
+        "name": "OpenConnectionMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-9B",
+        "IsConfident": true
+      },
+      {
+        "id": "338",
+        "name": "RentableSpaceRentOkMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-c1j",
+        "IsConfident": true
+      },
+      {
+        "id": "3401",
+        "name": "TargetedOfferEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-21R",
+        "IsConfident": true
+      },
+      {
+        "id": "3410",
+        "name": "CfhChatlogEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-Kl",
+        "IsConfident": true
+      },
+      {
+        "id": "3430",
+        "name": "MysteryBoxKeysMessageEvent",
+        "asNamespace": "_-02s",
+        "asClass": "_-P1d",
+        "IsConfident": true
+      },
+      {
+        "id": "3434",
+        "name": "RoomMessageNotificationMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-X1b",
+        "IsConfident": true
+      },
+      {
+        "id": "3440",
+        "name": "ItemUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-N1I",
+        "IsConfident": true
+      },
+      {
+        "id": "3443",
+        "name": "WiredRewardResultMessageEvent",
+        "asNamespace": "_-l12",
+        "asClass": "_-TN",
+        "IsConfident": true
+      },
+      {
+        "id": "3445",
+        "name": "GetGuestRoomResultEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-W1I",
+        "IsConfident": true
+      },
+      {
+        "id": "345",
+        "name": "PetRespectNotificationEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-CF",
+        "IsConfident": true
+      },
+      {
+        "id": "3486",
+        "name": "Game2GameDirectoryStatusMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2GameDirectoryStatusMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "3492",
+        "name": "MarketplaceCancelOfferResultEvent",
+        "asNamespace": "_-qw",
+        "asClass": "_-2z",
+        "IsConfident": true
+      },
+      {
+        "id": "3496",
+        "name": "ShowMysteryBoxWaitMessageEvent",
+        "asNamespace": "_-02s",
+        "asClass": "_-tZ",
+        "IsConfident": true
+      },
+      {
+        "id": "3499",
+        "name": "TradingCloseEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-n13",
+        "IsConfident": true
+      },
+      {
+        "id": "3508",
+        "name": "IssueDeletedMessageEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-9k",
+        "IsConfident": true
+      },
+      {
+        "id": "3510",
+        "name": "WiredValidationErrorEvent",
+        "asNamespace": "_-l12",
+        "asClass": "_-r1D",
+        "IsConfident": true
+      },
+      {
+        "id": "3518",
+        "name": "AchievementResolutionProgressMessageEvent",
+        "asNamespace": "_-q1B",
+        "asClass": "_-Wn",
+        "IsConfident": true
+      },
+      {
+        "id": "3523",
+        "name": "RoomEventCancelEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-S14",
+        "IsConfident": true
+      },
+      {
+        "id": "3524",
+        "name": "WeeklyCompetitiveFriendsLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "WeeklyCompetitiveFriendsLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "353",
+        "name": "AchievementsScoreEvent",
+        "asNamespace": "_-p1o",
+        "asClass": "_-aE",
+        "IsConfident": true
+      },
+      {
+        "id": "3546",
+        "name": "InfoHotelClosingMessageEvent",
+        "asNamespace": "_-a5",
+        "asClass": "_-a1e",
+        "IsConfident": true
+      },
+      {
+        "id": "3547",
+        "name": "CommunityGoalHallOfFameMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-N1j",
+        "IsConfident": true
+      },
+      {
+        "id": "356",
+        "name": "NavigatorSearchResultBlocksEvent",
+        "asNamespace": "_-21f",
+        "asClass": "_-e1i",
+        "IsConfident": true
+      },
+      {
+        "id": "3577",
+        "name": "QuestMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-r4",
+        "IsConfident": true
+      },
+      {
+        "id": "3587",
+        "name": "QuestionAnsweredEvent",
+        "asNamespace": "_-ja",
+        "asClass": "_-O1t",
+        "IsConfident": true
+      },
+      {
+        "id": "3592",
+        "name": "HandItemReceivedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-i1I",
+        "IsConfident": true
+      },
+      {
+        "id": "3594",
+        "name": "FaqTextMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-U",
+        "IsConfident": true
+      },
+      {
+        "id": "3605",
+        "name": "PetFigureUpdateEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-aQ",
+        "IsConfident": true
+      },
+      {
+        "id": "3608",
+        "name": "GuideTicketResolutionMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-OE",
+        "IsConfident": true
+      },
+      {
+        "id": "3610",
+        "name": "Game2UserLeftGameMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2UserLeftGameMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "3626",
+        "name": "ThreadMessagesMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-DY",
+        "IsConfident": true
+      },
+      {
+        "id": "3641",
+        "name": "FriendListFragmentMessageEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-U1c",
+        "IsConfident": true
+      },
+      {
+        "id": "3643",
+        "name": "YouArePlayingGameMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-G2",
+        "IsConfident": true
+      },
+      {
+        "id": "3644",
+        "name": "Game2EnterArenaFailedMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-12c",
+        "IsConfident": true
+      },
+      {
+        "id": "366",
+        "name": "UserEventCatsEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-s1j",
+        "IsConfident": true
+      },
+      {
+        "id": "3666",
+        "name": "LimitedEditionSoldOutEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-G1L",
+        "IsConfident": true
+      },
+      {
+        "id": "3677",
+        "name": "GroupDetailsChangedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-k13",
+        "IsConfident": true
+      },
+      {
+        "id": "3679",
+        "name": "TradingNoSuchItemEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-Uk",
+        "IsConfident": true
+      },
+      {
+        "id": "368",
+        "name": "RoomEntryInfoMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-4N",
+        "IsConfident": true
+      },
+      {
+        "id": "3693",
+        "name": "HabboGroupBadgesMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-22Z",
+        "IsConfident": true
+      },
+      {
+        "id": "3698",
+        "name": "RoomChatlogEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-31s",
+        "IsConfident": true
+      },
+      {
+        "id": "3707",
+        "name": "SpecialRoomEffectMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-Y1M",
+        "IsConfident": true
+      },
+      {
+        "id": "3709",
+        "name": "Game2GameEndingMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-xV",
+        "IsConfident": true
+      },
+      {
+        "id": "3710",
+        "name": "CameraPublishStatusMessageEvent",
+        "asNamespace": "_-du",
+        "asClass": "_-02z",
+        "IsConfident": true
+      },
+      {
+        "id": "3711",
+        "name": "FlatControllerAddedEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-Wo",
+        "IsConfident": true
+      },
+      {
+        "id": "3715",
+        "name": "ClubGiftNotificationEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-h1R",
+        "IsConfident": true
+      },
+      {
+        "id": "3724",
+        "name": "ModeratorUserInfoEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-Pg",
+        "IsConfident": true
+      },
+      {
+        "id": "3736",
+        "name": "HabboActivityPointNotificationMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-32Q",
+        "IsConfident": true
+      },
+      {
+        "id": "3747",
+        "name": "LimitedOfferAppearingNextMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-41f",
+        "IsConfident": true
+      },
+      {
+        "id": "3773",
+        "name": "RoomSettingsSaveErrorEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-01X",
+        "IsConfident": true
+      },
+      {
+        "id": "3775",
+        "name": "PetExperienceEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-ya",
+        "IsConfident": true
+      },
+      {
+        "id": "378",
+        "name": "TargetedOfferNotFoundEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-X1K",
+        "IsConfident": true
+      },
+      {
+        "id": "3783",
+        "name": "GuildMemberMgmtFailedMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-D1v",
+        "IsConfident": true
+      },
+      {
+        "id": "3792",
+        "name": "IncomeRewardStatusMessageEvent",
+        "asNamespace": "_-Fh",
+        "asClass": "_-oG",
+        "IsConfident": true
+      },
+      {
+        "id": "3794",
+        "name": "InfoFeedEnableMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-s1t",
+        "IsConfident": true
+      },
+      {
+        "id": "38",
+        "name": "UserNftWardrobeMessageEvent",
+        "asNamespace": "_-T1p",
+        "asClass": "_-ib",
+        "IsConfident": true
+      },
+      {
+        "id": "380",
+        "name": "CategoriesWithVisitorCountEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-l5",
+        "IsConfident": true
+      },
+      {
+        "id": "3804",
+        "name": "RoomReadyMessageEvent",
+        "asNamespace": "_-y1x",
+        "asClass": "_-9H",
+        "IsConfident": true
+      },
+      {
+        "id": "3808",
+        "name": "WiredFurniActionEvent",
+        "asNamespace": "_-l12",
+        "asClass": "_-A1k",
+        "IsConfident": true
+      },
+      {
+        "id": "3811",
+        "name": "FigureSetIdRemovedEvent",
+        "asNamespace": "_-i9",
+        "asClass": "_-T1t",
+        "IsConfident": true
+      },
+      {
+        "id": "3817",
+        "name": "QuizDataMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-H1F",
+        "IsConfident": true
+      },
+      {
+        "id": "382",
+        "name": "HeightMapUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-ch",
+        "IsConfident": true
+      },
+      {
+        "id": "3821",
+        "name": "YoutubeDisplayPlaylistsMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-l1c",
+        "IsConfident": true
+      },
+      {
+        "id": "3824",
+        "name": "GuideSessionAttachedMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-RJ",
+        "IsConfident": true
+      },
+      {
+        "id": "3826",
+        "name": "NewFriendRequestEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-SR",
+        "IsConfident": true
+      },
+      {
+        "id": "3838",
+        "name": "IdentityAccountsEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-EF",
+        "IsConfident": true
+      },
+      {
+        "id": "3876",
+        "name": "PresentOpenedMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-AP",
+        "IsConfident": true
+      },
+      {
+        "id": "3881",
+        "name": "BadgeReceivedEvent",
+        "asNamespace": "_-a2",
+        "asClass": "_-91G",
+        "IsConfident": true
+      },
+      {
+        "id": "3886",
+        "name": "SlideObjectBundleMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-Am",
+        "IsConfident": true
+      },
+      {
+        "id": "3887",
+        "name": "ConcurrentUsersGoalProgressMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-p1g",
+        "IsConfident": true
+      },
+      {
+        "id": "3889",
+        "name": "QuestDailyMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-e17",
+        "IsConfident": true
+      },
+      {
+        "id": "3895",
+        "name": "SanctionStatusEvent",
+        "asNamespace": "_-v1p",
+        "asClass": "_-Rr",
+        "IsConfident": true
+      },
+      {
+        "id": "3909",
+        "name": "NavigatorLiftedRoomsEvent",
+        "asNamespace": "_-21f",
+        "asClass": "_-J19",
+        "IsConfident": true
+      },
+      {
+        "id": "3935",
+        "name": "MessengerErrorEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-02m",
+        "IsConfident": true
+      },
+      {
+        "id": "3937",
+        "name": "WeeklyGameRewardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "WeeklyGameRewardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "396",
+        "name": "GuideSessionEndedMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-CY",
+        "IsConfident": true
+      },
+      {
+        "id": "3962",
+        "name": "PlayListMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-T1v",
+        "IsConfident": true
+      },
+      {
+        "id": "3964",
+        "name": "UserGameAchievementsMessageEvent",
+        "asNamespace": "_-q1B",
+        "asClass": "UserGameAchievementsMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "3966",
+        "name": "AvatarEffectAddedMessageEvent",
+        "asNamespace": "_-w19",
+        "asClass": "_-SW",
+        "IsConfident": true
+      },
+      {
+        "id": "397",
+        "name": "DoorbellMessageEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-9t",
+        "IsConfident": true
+      },
+      {
+        "id": "3972",
+        "name": "GuideSessionErrorMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-Tm",
+        "IsConfident": true
+      },
+      {
+        "id": "3993",
+        "name": "TradeOpenFailedEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-r12",
+        "IsConfident": true
+      },
+      {
+        "id": "3994",
+        "name": "ScrSendKickbackInfoMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-S16",
+        "IsConfident": true
+      },
+      {
+        "id": "3999",
+        "name": "HeightMapMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-71i",
+        "IsConfident": true
+      },
+      {
+        "id": "4000",
+        "name": "DisconnectReasonEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-Kp",
+        "IsConfident": true
+      },
+      {
+        "id": "406",
+        "name": "BotForceOpenContextMenuEvent",
+        "asNamespace": "_-u7",
+        "asClass": "_-L11",
+        "IsConfident": true
+      },
+      {
+        "id": "409",
+        "name": "MiniMailUnreadCountEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-g1q",
+        "IsConfident": true
+      },
+      {
+        "id": "413",
+        "name": "FriendRequestsEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-u1m",
+        "IsConfident": true
+      },
+      {
+        "id": "418",
+        "name": "PerkAllowancesMessageEvent",
+        "asNamespace": "_-111",
+        "asClass": "_-s1X",
+        "IsConfident": true
+      },
+      {
+        "id": "419",
+        "name": "CameraStorageUrlMessageEvent",
+        "asNamespace": "_-du",
+        "asClass": "_-RD",
+        "IsConfident": true
+      },
+      {
+        "id": "424",
+        "name": "Game2FriendsLeaderboardEvent",
+        "asNamespace": "_-wo",
+        "asClass": "Game2FriendsLeaderboardEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "436",
+        "name": "YouAreOwnerMessageEvent",
+        "asNamespace": "_-r1a",
+        "asClass": "_-w1M",
+        "IsConfident": true
+      },
+      {
+        "id": "459",
+        "name": "NotificationDialogMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-v1s",
+        "IsConfident": true
+      },
+      {
+        "id": "464",
+        "name": "MarketplaceItemStatsEvent",
+        "asNamespace": "_-qw",
+        "asClass": "_-12a",
+        "IsConfident": true
+      },
+      {
+        "id": "467",
+        "name": "MessengerInitEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-3t",
+        "IsConfident": true
+      },
+      {
+        "id": "473",
+        "name": "PetLevelUpdateEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-Wr",
+        "IsConfident": true
+      },
+      {
+        "id": "478",
+        "name": "UnseenItemsEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-y1X",
+        "IsConfident": true
+      },
+      {
+        "id": "486",
+        "name": "BonusRareInfoMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-NS",
+        "IsConfident": true
+      },
+      {
+        "id": "494",
+        "name": "GuestRoomSearchResultEvent",
+        "asNamespace": "_-Ja",
+        "asClass": "_-uV",
+        "IsConfident": true
+      },
+      {
+        "id": "509",
+        "name": "TradingAcceptEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-N6",
+        "IsConfident": true
+      },
+      {
+        "id": "512",
+        "name": "QuestsMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-i1D",
+        "IsConfident": true
+      },
+      {
+        "id": "516",
+        "name": "Game2GameNotFoundMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2GameNotFoundMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "536",
+        "name": "BadgePointLimitsEvent",
+        "asNamespace": "_-a2",
+        "asClass": "_-O2",
+        "IsConfident": true
+      },
+      {
+        "id": "542",
+        "name": "UserSongDisksInventoryMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-AF",
+        "IsConfident": true
+      },
+      {
+        "id": "55",
+        "name": "RoomSettingsErrorEvent",
+        "asNamespace": "_-n1H",
+        "asClass": "_-026",
+        "IsConfident": true
+      },
+      {
+        "id": "561",
+        "name": "RoomAdPurchaseInfoEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-C1n",
+        "IsConfident": true
+      },
+      {
+        "id": "564",
+        "name": "UserUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-Ko",
+        "IsConfident": true
+      },
+      {
+        "id": "567",
+        "name": "InstantMessageErrorEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-D19",
+        "IsConfident": true
+      },
+      {
+        "id": "614",
+        "name": "WiredSaveSuccessEvent",
+        "asNamespace": "_-l12",
+        "asClass": "_-QX",
+        "IsConfident": true
+      },
+      {
+        "id": "629",
+        "name": "RestoreClientMessageEvent",
+        "asNamespace": "_-EK",
+        "asClass": "_-Up",
+        "IsConfident": true
+      },
+      {
+        "id": "632",
+        "name": "PetRespectFailedEvent",
+        "asNamespace": "_-b1c",
+        "asClass": "_-s1h",
+        "IsConfident": true
+      },
+      {
+        "id": "644",
+        "name": "MarketPlaceOffersEvent",
+        "asNamespace": "_-qw",
+        "asClass": "_-5R",
+        "IsConfident": true
+      },
+      {
+        "id": "647",
+        "name": "GuildEditorDataMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-h1w",
+        "IsConfident": true
+      },
+      {
+        "id": "662",
+        "name": "OfficialSongIdMessageEvent",
+        "asNamespace": "_-jK",
+        "asClass": "_-Sc",
+        "IsConfident": true
+      },
+      {
+        "id": "666",
+        "name": "CatalogPublishedMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-Y1X",
+        "IsConfident": true
+      },
+      {
+        "id": "667",
+        "name": "IssueInfoMessageEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-31i",
+        "IsConfident": true
+      },
+      {
+        "id": "674",
+        "name": "QuestCancelledMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-g1V",
+        "IsConfident": true
+      },
+      {
+        "id": "683",
+        "name": "CancelMysteryBoxWaitMessageEvent",
+        "asNamespace": "_-02s",
+        "asClass": "_-A1m",
+        "IsConfident": true
+      },
+      {
+        "id": "684",
+        "name": "PostMessageMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-KO",
+        "IsConfident": true
+      },
+      {
+        "id": "698",
+        "name": "FriendFurniCancelLockMessageEvent",
+        "asNamespace": "_-X7",
+        "asClass": "_-R1j",
+        "IsConfident": true
+      },
+      {
+        "id": "699",
+        "name": "GuideSessionPartnerIsTypingMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-Mi",
+        "IsConfident": true
+      },
+      {
+        "id": "70",
+        "name": "ConfirmBreedingResultEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-CG",
+        "IsConfident": true
+      },
+      {
+        "id": "701",
+        "name": "InitDiffieHandshakeEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-nK",
+        "IsConfident": true
+      },
+      {
+        "id": "702",
+        "name": "UpdateMessageMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-21l",
+        "IsConfident": true
+      },
+      {
+        "id": "712",
+        "name": "GenericErrorEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-Q17",
+        "IsConfident": true
+      },
+      {
+        "id": "738",
+        "name": "MiniMailNewMessageEvent",
+        "asNamespace": "_-JS",
+        "asClass": "_-S9",
+        "IsConfident": true
+      },
+      {
+        "id": "75",
+        "name": "FurniListEvent",
+        "asNamespace": "_-Go",
+        "asClass": "_-Jh",
+        "IsConfident": true
+      },
+      {
+        "id": "757",
+        "name": "PetBreedingEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-ad",
+        "IsConfident": true
+      },
+      {
+        "id": "764",
+        "name": "PetRemovedFromInventoryEvent",
+        "asNamespace": "_-Z1z",
+        "asClass": "_-eL",
+        "IsConfident": true
+      },
+      {
+        "id": "766",
+        "name": "ChatReviewSessionOfferedToGuideMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-Ft",
+        "IsConfident": true
+      },
+      {
+        "id": "788",
+        "name": "GuildMembershipsMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-fO",
+        "IsConfident": true
+      },
+      {
+        "id": "811",
+        "name": "Game2JoiningGameFailedMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2JoiningGameFailedMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "828",
+        "name": "CameraPurchaseOKMessageEvent",
+        "asNamespace": "_-du",
+        "asClass": "_-4Z",
+        "IsConfident": true
+      },
+      {
+        "id": "838",
+        "name": "FaqSearchResultsMessageEvent",
+        "asNamespace": "_-d1i",
+        "asClass": "_-D1J",
+        "IsConfident": true
+      },
+      {
+        "id": "842",
+        "name": "Game2GameStartedMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "_-cw",
+        "IsConfident": true
+      },
+      {
+        "id": "844",
+        "name": "QuestCompletedMessageEvent",
+        "asNamespace": "_-41O",
+        "asClass": "_-l1J",
+        "IsConfident": true
+      },
+      {
+        "id": "851",
+        "name": "UnreadForumsCountMessageEvent",
+        "asNamespace": "_-h12",
+        "asClass": "_-615",
+        "IsConfident": true
+      },
+      {
+        "id": "852",
+        "name": "PurchaseErrorMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-d1c",
+        "IsConfident": true
+      },
+      {
+        "id": "86",
+        "name": "AuthenticationOKMessageEvent",
+        "asNamespace": "_-yL",
+        "asClass": "_-y9",
+        "IsConfident": true
+      },
+      {
+        "id": "864",
+        "name": "AvailabilityStatusMessageEvent",
+        "asNamespace": "_-a5",
+        "asClass": "_-rB",
+        "IsConfident": true
+      },
+      {
+        "id": "894",
+        "name": "WiredFurniConditionEvent",
+        "asNamespace": "_-l12",
+        "asClass": "_-a1y",
+        "IsConfident": true
+      },
+      {
+        "id": "898",
+        "name": "QuestionFinishedEvent",
+        "asNamespace": "_-ja",
+        "asClass": "_-41k",
+        "IsConfident": true
+      },
+      {
+        "id": "9",
+        "name": "IssuePickFailedMessageEvent",
+        "asNamespace": "_-x1P",
+        "asClass": "_-s1M",
+        "IsConfident": true
+      },
+      {
+        "id": "919",
+        "name": "UseObjectMessageEvent",
+        "asNamespace": "_-O1Z",
+        "asClass": "_-1Y",
+        "IsConfident": true
+      },
+      {
+        "id": "927",
+        "name": "Game2AccountGameStatusMessageEvent",
+        "asNamespace": "_-1O",
+        "asClass": "Game2AccountGameStatusMessageEvent",
+        "IsConfident": true
+      },
+      {
+        "id": "932",
+        "name": "ItemRemoveMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-V1S",
+        "IsConfident": true
+      },
+      {
+        "id": "933",
+        "name": "Game2GameRejoinMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-qj",
+        "IsConfident": true
+      },
+      {
+        "id": "937",
+        "name": "YoutubeControlVideoMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-5E",
+        "IsConfident": true
+      },
+      {
+        "id": "945",
+        "name": "Game2ArenaEnteredMessageEvent",
+        "asNamespace": "_-K1h",
+        "asClass": "_-h1X",
+        "IsConfident": true
+      },
+      {
+        "id": "949",
+        "name": "BundleDiscountRulesetMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-i1a",
+        "IsConfident": true
+      },
+      {
+        "id": "956",
+        "name": "TradingOpenEvent",
+        "asNamespace": "_-61W",
+        "asClass": "_-Rv",
+        "IsConfident": true
+      },
+      {
+        "id": "966",
+        "name": "HabboClubExtendOfferMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-Zv",
+        "IsConfident": true
+      },
+      {
+        "id": "973",
+        "name": "CatalogIndexMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-dE",
+        "IsConfident": true
+      },
+      {
+        "id": "983",
+        "name": "HabboGroupDetailsMessageEvent",
+        "asNamespace": "_-W1K",
+        "asClass": "_-K10",
+        "IsConfident": true
+      },
+      {
+        "id": "984",
+        "name": "ObjectDataUpdateMessageEvent",
+        "asNamespace": "_-Ol",
+        "asClass": "_-ph",
+        "IsConfident": true
+      },
+      {
+        "id": "985",
+        "name": "SeasonalCalendarDailyOfferMessageEvent",
+        "asNamespace": "_-AE",
+        "asClass": "_-P1M",
+        "IsConfident": true
+      },
+      {
+        "id": "987",
+        "name": "CustomStackingHeightUpdateMessageEvent",
+        "asNamespace": "_-81g",
+        "asClass": "_-Ia",
+        "IsConfident": true
+      },
+      {
+        "id": "999",
+        "name": "WeeklyGameRewardWinnersEvent",
+        "asNamespace": "_-wo",
+        "asClass": "WeeklyGameRewardWinnersEvent",
+        "IsConfident": true
+      }
+    ]
+  }
+}
