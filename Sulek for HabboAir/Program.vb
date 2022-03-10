@@ -27,6 +27,7 @@ Module Program
             Dim TempClass = GetClassByRealClassName(Flash.AbcFiles, "HabboMessages")
             Dim TempClassCode = TempClass.Constructor.Body.ParseCode()
             Dim OutgoingTypeConstName As String = TempClass.Traits(1).QName.Name
+            Dim TotalMessagesCount As Integer = 0
             For i As Integer = 0 To TempClassCode.Count - 1
                 Dim TempClassCodeInstruction As ASInstruction = TempClassCode(i)
                 Dim MessageDetected As Boolean = False
@@ -68,6 +69,7 @@ Module Program
                                     Try 'Try to get name using Instance parser method
                                         MessageNewClassName = GetRealInstanceNameWithParserMethod(Flash.AbcFiles, GetInstanceByName(Flash.AbcFiles, MessageOldClassName))
                                     Catch 'Failed to get name, will be added as Unknown message
+                                        TotalMessagesCount += 1
                                         SulekUnknownMessages.Add(New SulekMessage(MessageOldClassName, MessageID, MessageOutgoing, MessageOldClassName, MessageNamespace))
                                         Continue For
                                     End Try
@@ -76,8 +78,10 @@ Module Program
                         End If
                     End If
                     If MessageOutgoing = True Then
+                        TotalMessagesCount += 1
                         SulekOutgoingMessages.Add(New SulekMessage(CleanNewClassName(MessageNewClassName), MessageID, MessageOutgoing, MessageOldClassName, MessageNamespace))
                     Else
+                        TotalMessagesCount += 1
                         SulekIncomingMessages.Add(New SulekMessage(CleanNewClassName(MessageNewClassName), MessageID, MessageOutgoing, MessageOldClassName, MessageNamespace))
                     End If
                 End If
@@ -101,7 +105,7 @@ Module Program
                 Console.WriteLine("Destination file: " & "Sulek_API-" & SulekAPIRevision)
                 Console.WriteLine("Saved " & SulekOutgoingMessages.Count & " outgoing messages and " & SulekIncomingMessages.Count & " incoming messages.")
                 Console.WriteLine("Unknown messages names: " & SulekUnknownMessages.Count)
-                Console.WriteLine("Known messages names rate: " & Math.Round((SulekOutgoingMessages.Count + SulekIncomingMessages.Count - SulekUnknownMessages.Count) / (SulekOutgoingMessages.Count + SulekIncomingMessages.Count) * 100, 2) & "%")
+                Console.WriteLine("Known messages names rate: " & Math.Round((TotalMessagesCount - SulekUnknownMessages.Count) / TotalMessagesCount * 100, 2) & "%")
             End If
             Console.WriteLine("")
         Catch ex As Exception
